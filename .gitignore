@@ -1,0 +1,20 @@
+# Claude Code internal state (settings, memory, hooks — may contain personal data)
+.claude/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Private notes (not for publication)
+private/
+
+# Environment / secrets
+.env
+.env.*
