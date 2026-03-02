@@ -148,6 +148,8 @@ Internet:
 
 \*\*\*
 
+## Predicting the next bubble
+
 Finally, can we use this framework to predict future bubbles? Maybe even better, to time them?
 
 It's not so easy.
@@ -155,8 +157,6 @@ It's not so easy.
 \*\*\*
 
 The authors, writing *in 2019*, predicted that Tesla stock would be the next bubble. They referred to Elon Musk as a great ..., specifically naming the "Gigafactory" of Nevada as one of a series of sequential narrative shifts that Musk has constructed to "extend the window of uncertainty" of the electric vehicle business model and further delay the "day or reckoning" when Tesla finally has to show itself capable of fulfilling its promise of an affordable, mass-produced EV with sufficient range.
-
-This is really important because all throughout the book, the authors never referenced the idea of a "Window of Bubble Opportunity" as something that could be influenced by the entrepreneurs themselves, it always seemed to be taken as a given: Every new technology has a window of bubble opportunity. This is what economists call "endogeneity" versus "exogenous" variables, and it should be a very important part of any type of causal explanation. Yet now it seems obvious that if the window of bubble opportunity is driven by business model uncertainty, then it's up to businessmen to decide it.
 
 The authors affirmed that the market for Tesla in 2019 was underestimating the capacity of legacy firms to enter the EV market, and predicted that when they entered the market, Tesla's shares would "come down to earth". (p. 158).
 
@@ -181,6 +181,16 @@ So let’s just bite the bullet and apply this framework to AI. I’m pretty sur
 Yep, it’s a bubble.
 
 ---
+
+## ANNEX: Reflections on the Endogeneity of Uncertainty
+
+It's really important for our predictions that the authors, in page 158, accuse Musk of trying to "extend the window of uncertainty" of the electric vehicle business model: All throughout the book, the authors never referenced the idea of a "Window of Bubble Opportunity" as something that could be influenced by the entrepreneurs themselves, it always seemed to be taken as a given: Every new technology has a window of bubble opportunity.
+
+The previous distinction is what economists call "endogeneity" versus "exogenous" variables, and it should be a very important part of any type of causal explanation. Yet now it seems obvious that if the window of bubble opportunity is driven by business model uncertainty, then it's up to businessmen to decide it.
+
+If we accept that entrepreneurs have agency in extending the uncertainty of the business model, how does that impacts our framework and our predictions?
+
+## Bibliography & Notes
 
 [1] Guerron-Quintana, Pablo A., Tomohiro Hirano, and Ryo Jinnai. "Bubbles, Crashes, and Economic Growth: Theory and Evidence." *American Economic Journal: Macroeconomics* 15, no. 2 (2023): 333–71. https://doi.org/10.1257/mac.20220015
 
