@@ -163,7 +163,7 @@ The authors affirmed that the market for Tesla in 2019 was underestimating the c
 So how has that prediction worked out, seven years later? 
 Mixed results:
 
-Tesla's shares did fell xxx% in xxx, but then they went back up again, as Musk entered into politics first and then constructed even more "narrative shifts" with the rise of AI, such as Tesla's advances in autonomous robots (Optimus). 
+Tesla's shares did fell xxx% in xxx, but then they went back up hitting a high of yyyy in yyyy, as Musk entered into politics first and then constructed even more "narrative shifts" with the rise of AI, such as Tesla's advances in autonomous robots such as Optimus. (check check check) 
 
 Indeed, one of the world’s biggest bears\*, Dr. Burry, writes that although he is bearish on Tesla, shorting it can be quite expensive due to its great volatility, so he does not recommend it. In 2021, Dr. Burry unfamously revealed put options against 800,100 Tesla shares on his hedge fund's SEC 13-F filing, right before Tesla's price rose again.
 
@@ -175,20 +175,37 @@ More importantly, the author's thesis was that legacy automakers would enter the
 
 So let’s just bite the bullet and apply this framework to AI. I’m pretty sure that our priors won't influence us in any way.
 
-- … applying the framework it's quite obvious that AI has all the elements of a bubble. In fact, it might be the Uberbubble (the mother of all bubbles) because it's expanding the life of other bubbles such as Tesla's. But yet, the framework doesn't allow us to time the bubble, which means it's incomplete …  
-- … Dr. Burry’s ideas on AI …
+- … applying the framework it's quite obvious that AI has all the elements of a bubble. In fact, it might be the Uberbubble (the mother of all bubbles) because it's expanding the life of other bubbles such as Tesla's. But yet, the framework doesn't allow us to time the bubble, which means it's incomplete …
+- .. Even if a new technology is revolutionary, human imagination is limited, hence the technology can be deployed suboptimally for a long time. For example: This is exactly what happened to radio according to the authors, as well as to the elctric engine according to noahpinion.
+- … From an accountancy standpoint, Dr. Burry’s ideas on AI, Dario Amodei's warnings …
 
 Yep, it’s a bubble.
 
 ---
 
-## ANNEX: Reflections on the Endogeneity of Uncertainty
+## Annex 1: Reflections on the Endogeneity of Uncertainty
 
 It's really important for our predictions that the authors, in page 158, accuse Musk of trying to "extend the window of uncertainty" of the electric vehicle business model: All throughout the book, the authors never referenced the idea of a "Window of Bubble Opportunity" as something that could be influenced by the entrepreneurs themselves, it always seemed to be taken as a given: Every new technology has a window of bubble opportunity.
 
 The previous distinction is what economists call "endogeneity" versus "exogenous" variables, and it should be a very important part of any type of causal explanation. Yet now it seems obvious that if the window of bubble opportunity is driven by business model uncertainty, then it's up to businessmen to decide it.
 
 If we accept that entrepreneurs have agency in extending the uncertainty of the business model, how does that impacts our framework and our predictions?
+
+---
+
+## Annex 2: Reflections on Human Imagination
+
+As the authors mention on the book, and as I highlighted on the review, human imagination is *limited*.
+
+This is definitely part of why deploying new technologies take time: People and, specially, firms, need to adapt to new ways of doing things.
+
+Maybe this is also part of why it's so hard to forecast the future. If you go back to the predictions of XIX Century people for the future, they imagine a future that is very similar to their own time, but iwth more: More flying jetpacks, etc.. (check if we can find a series of drawings from late 1800s early 1900s that show exactly this, people with suits and mustaches flying in jetpacks and whatever).
+
+(aside: How does this interact with the growing "superforecasting" consensus, what does Philip Tetlock says, how do superforecasters do on imagination, etc.. need to check)
+
+Is AI superior in imagination to humanity? I don't see why it should be in principle: Imagination isn't necessarily part of "intelligence" (check this), and also the way that AI has been trained is in predicting human behavior (i.e. a defined range of outcomes), not in forecasting the future. (check if there is anything related to this in the discussion on either Scott Alexander's blog or Dwarkesh Patel's podcast about why ahsn't there been more scientific breaktrhoughs by AI) 
+
+---
 
 ## Bibliography & Notes
 
