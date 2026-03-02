@@ -10,17 +10,15 @@ Obviously bubbles are painful when they crash: Not only investors see their gree
 
 Employees suffer not only when they get fired (which is the obvious and ugly part of a burst), but also young men and women who are graduating when the bubble burst can lose valuable years of work experience, which will compound into further losses across their lifetime. This is the gist of the concept of “hysteresis”, a concept that gained relevance in academic circles after the Great Recession (2008).
 
-*“After the Great Recession, economic observers seem to agree on a few points. First, an asset price bubble emerged in the years leading up to the crisis. Second, economic growth was strong when the bubble was present. Third, the implosion of the bubble triggered a financial crisis, resulting in severe contraction (Brunnermeier and Oehmke 2013). Fourth, the recovery from the crisis was slower than the recovery from typical recessions.”*
+*”After the Great Recession, economic observers seem to agree on a few points. First, an asset price bubble emerged in the years leading up to the crisis. Second, economic growth was strong when the bubble was present. Third, the implosion of the bubble triggered a financial crisis, resulting in severe contraction (Brunnermeier and Oehmke 2013). Fourth, the recovery from the crisis was slower than the recovery from typical recessions.”* [1]
 
-- (Guerron-Quintana, Pablo A., Tomohiro Hirano, and Ryo Jinnai. 2023\. "Bubbles, Crashes, and Economic Growth: Theory and Evidence." American Economic Journal: Macroeconomics 15 (2): 333–71. DOI: 10.1257/mac.20220015)
-
-However, not all is bad in a bubble: A bubble is characterized by an investment frenzy, which means that they can “*stimulate innovation and investment that may be used to build out infrastructure*” , and often the startups founded in these bubbles may be “*more highly valued*” with patents “*more likely to be inputs into more innovation*”. (B\&C, 2019, p. 168\)
+However, not all is bad in a bubble: A bubble is characterized by an investment frenzy, which means that they can “*stimulate innovation and investment that may be used to build out infrastructure*” , and often the startups founded in these bubbles may be “*more highly valued*” with patents “*more likely to be inputs into more innovation*”. [2, p. 168]
 
 Regardless, my economic intuition is that the “good” aspects of the bubble are more-than-undone by the “bad” aspects.
 
-In academic economics, this debate is ongoing, but certain researchers suggest that the key is in the level of development of any given country: If the country is financially underdeveloped, then the “positive” aspects of the bubble would dominate, because the alternative is no investment at all. If the country is developed, then the negative aspects dominate. According to Guerron-Quintana *et al* (2023) this latter is exactly what happened to America during the dot-com and the housing bubble, the last of which is faulted with having depressed US growth rates in 2% (check).
+In academic economics, this debate is ongoing, but certain researchers suggest that the key is in the level of development of any given country: If the country is financially underdeveloped, then the “positive” aspects of the bubble would dominate, because the alternative is no investment at all. If the country is developed, then the negative aspects dominate. According to Guerron-Quintana *et al* [1] this latter is exactly what happened to America during the dot-com and the housing bubble, the last of which is faulted with having depressed US growth rates in 2% (check).
 
-For the authors of Bubbles & Crashes, 2019 (B\&C 2019), “*Bubbles are neither good nor bad, nor are they neutral*.” (p.167), paraphrasing Mel Kranzberg’s First Law of Technology.
+For the authors of Bubbles & Crashes, 2019 (B\&C 2019), “*Bubbles are neither good nor bad, nor are they neutral*.” [2, p. 167] paraphrasing Mel Kranzberg’s First Law of Technology.
 
 Once we establish that bubbles are, at least for developed countries, more trouble than they are worth, we might look for ways to prevent them from forming while preserving entrepreneurship and growth.
 
@@ -32,17 +30,17 @@ Bubbles & Crashes (B\&C) is the brainchild of Goldfarb and Kirsch, two economist
 
 This book is equally pragmatic, for its purpose is neither to discover secret laws governing the creation of bubbles, nor to create a grand narrative of how bubbles rise and fall (*á la* How Nations Fail), but rather a more humble one: To equip the reader with a *tool* designed to make him less likely to get burned when (not if) the next bubble bursts.
 
-This took is based on their *framework* for analyzing bubbles, which claims that four different factors increase the likelihood of a bubble forming around a new technology:
+This tool is based on their *framework* for analyzing bubbles, which claims that four different factors increase the likelihood of a bubble forming around a new technology:
 
 - Genuine Uncertainty.
-  - "For a given opportunity, is it known which business models will be profitable? Can we identify why entrepreneurs, investors, and analysts believe what they believe? Are such beliefs based on real, relevant past experience, or are they simply guesses? Do the players proclaim the future with certainty? Are investors and entrepreneurs making similar bets based on the same emergent, urgent narratives built on flimsy foundations? Do they all look to one another for social proof they are doing the right thing?"" (p.6)
+  - "For a given opportunity, is it known which business models will be profitable? Can we identify why entrepreneurs, investors, and analysts believe what they believe? Are such beliefs based on real, relevant past experience, or are they simply guesses? Do the players proclaim the future with certainty? Are investors and entrepreneurs making similar bets based on the same emergent, urgent narratives built on flimsy foundations? Do they all look to one another for social proof they are doing the right thing?" [2, p. 6]
 
 - Narratives.
 
 - Pure Plays.
 
 - Novice Investor.
-  - "For any asset or class of assets, if many novice investors are investing when asset values are funda- mentally unknowable, this is reason for concern. Such investors are unlikely to have access to information that would allow them to provide sound reasons to be bullish and are more likely to make decisions based on what others have told them. That is, novice investors areunlikely to understand what is unknowable. Thus, understanding who else is investing and why is critical to making an informed evaluation2 (p.6)
+  - "For any asset or class of assets, if many novice investors are investing when asset values are funda- mentally unknowable, this is reason for concern. Such investors are unlikely to have access to information that would allow them to provide sound reasons to be bullish and are more likely to make decisions based on what others have told them. That is, novice investors areunlikely to understand what is unknowable. Thus, understanding who else is investing and why is critical to making an informed evaluation." [2, p. 6]
     
 This gets condensed into the following practical advice:
 
@@ -54,7 +52,7 @@ This gets condensed into the following practical advice:
   - **Business model:** *Are there a variety of stories about how money will be made commercializing the new technology?*
   - **Competition:** *Does the narrative ignore future competition?*  
   - **Leverage:** *Are investments significantly leveraged? Do intermediaries play a large role?*  
-    - *B&C, 2019, p. 167.*
+    - [2, p. 167]
 
 Indeed this framework is, itself, enmeshed in a narrative, which can be described as follows:
 
@@ -76,7 +74,7 @@ Therefore, technically not all things that fall and rise are bubbles:
 
 Because of this, the authors distinguish between what they call a “*boom and bust cycle*” and a *bubble*:
 
-- They define a *boom* as whenever the “frothiness” of the market reaches 2 “standard deviations from the predicted stock or index trend” (p. 35), and a *bust* is when the price corrects itself by reversing back to the mean.  
+- They define a *boom* as whenever the “frothiness” of the market reaches 2 “standard deviations from the predicted stock or index trend” [2, p. 35], and a *bust* is when the price corrects itself by reversing back to the mean.  
 - Only when a *boom and bust cycle* coincides with both an influx of naïf investors and a popular story, then the authors call it a bubble. 
 
 Now, having clarified our framework we move on to identify it in a small selection of all the technological inventions reviewed by the authors.
@@ -141,3 +139,9 @@ So let’s just bite the bullet and apply this framework to AI. I’m pretty sur
 - … Dr. Burry’s ideas on AI …
 
 Yep, it’s a bubble.
+
+---
+
+[1] Guerron-Quintana, Pablo A., Tomohiro Hirano, and Ryo Jinnai. "Bubbles, Crashes, and Economic Growth: Theory and Evidence." *American Economic Journal: Macroeconomics* 15, no. 2 (2023): 333–71. https://doi.org/10.1257/mac.20220015
+
+[2] Brent Goldfarb and David A. Kirsch, *Bubbles and Crashes: The Boom and Bust of Technological Innovation* (Stanford University Press, 2019).
