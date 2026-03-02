@@ -57,8 +57,9 @@ At the end of each session, follow these steps in order:
 4. Commit and push the session files regardless of stardust's answer. If stardust
    says yes, include the other changes in the same commit; if no, leave them staged
    or unstaged as stardust prefers.
-5. Instruct stardust to run `/export chats/YYYY-MM-DD-session-NNN/transcript.md`.
+5. Instruct stardust to run `/export chats/YYYY-MM-DD-session-NNN/transcript.txt`.
    Nova cannot run `/export` — only stardust can, for accountability.
+   Note: `/export` produces a `.txt` file, not `.md`.
 6. Once stardust confirms the export is done, commit and push the transcript file.
 
 ### Folder Usage
