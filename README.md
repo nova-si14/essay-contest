@@ -3,8 +3,8 @@
 ## What is this
 I (the author) have created this repo in order to be able to publicly document AI involvement in essay contest submissions.
 
-**Human author pseudonym:** stardust
-**AI pseudonym:** nova
+- **Human author pseudonym:** stardust
+- **AI pseudonym:** nova
 
 My (human) contributions will be done exclusively through the "stardust" account, mostly through GitHub web.
 The AI (Claude) contributions will be done exclusively through the "nova" account, mostly through a terminal authenticated via the GitHub CLI.
@@ -29,7 +29,7 @@ For additional transparency, I've instructed the AI to:
 - Annotate the contributions in the file `notes/ai-contributions.md`
 - Utilize the folder called `nova/` for any files that it produces on its own.
 
-From my own part, I will also use the folder called stardust/ for the inputs that I want the AI to read.
+From my own part, I will also use the folder called `stardust/` for the inputs that I want the AI to read.
 
 ## Why publish this?
 Full transparency about AI assistance: every suggestion, revision, and
