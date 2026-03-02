@@ -146,7 +146,9 @@ Internet:
 
 - The last of the three most iconic bubbles reviewed was used to \*test\* their framework.  
 - They found that had they had their framework when the internet arose, they would predict it to be one of the most likely technologies to lead to a bubble, as it did on the Dot Com bubble.  
-- … Dr. Burry’s ideas on the dot com bubble ..
+- According to Dr. Burry, the Dot-Com bubble is misremembered in today's narrative: The bubble was caused by an *overinvestment* frenzy in *data-transmission technology* that created a supply that far exceeded what demand could absorb. For Dr. Burry, this frenzy was kept alive by mantras such as “internet traffic doubles every 100 days."
+Source: https://michaeljburry.substack.com/p/the-cardinal-sign-of-a-bubble-supply
+- Indeed, Dr. Burry's ideas closely match those exposed by the authors being reviewed, specifically the tendency to underestimate the role of competition during these bubbles: So it was in the Dot-com bubble, so it was in the rubber bubble almost a century earlier.
 
 \*\*\*
 
