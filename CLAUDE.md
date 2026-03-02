@@ -47,13 +47,19 @@ Drafts live in `drafts/` and follow the format `word-NNN.md`:
 - Citation style: Manual footnotes only - write [1], [2] etc. inline and list them at the bottom.
 
 ## Chat Logging
-At the end of each session:
+At the end of each session, follow these steps in order:
+
 1. Create the folder `chats/YYYY-MM-DD-session-NNN/`.
 2. Write `summary.md` inside it — 3–5 bullet points on what was discussed and decided.
-3. Commit and push all changes.
-4. Then instruct stardust to run `/export chats/YYYY-MM-DD-session-NNN/transcript.md`
-   to generate the transcript, and to commit and push it afterwards.
+3. Check for any uncommitted changes beyond the session files (e.g. draft edits, notes).
+   Ask stardust: "I'm about to push the session files. There are also these other changes:
+   [list them]. Do you want me to push those too, or only the session files?"
+4. Commit and push the session files regardless of stardust's answer. If stardust
+   says yes, include the other changes in the same commit; if no, leave them staged
+   or unstaged as stardust prefers.
+5. Instruct stardust to run `/export chats/YYYY-MM-DD-session-NNN/transcript.md`.
    Nova cannot run `/export` — only stardust can, for accountability.
+6. Once stardust confirms the export is done, commit and push the transcript file.
 
 ### Folder Usage
 - Use `nova/` for any files you produce independently (research, analysis, summaries).
