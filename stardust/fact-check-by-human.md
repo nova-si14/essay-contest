@@ -26,4 +26,5 @@ In a previous page they say: "According to our estimate, the short-run impact is
 Putting 2 and 2 together they are saying that without bubbles, the USA economy would have grown at a level of around 6% above its actual growth, but the bursting of the bubble shaved off 4 of those percentage point growth, leaving it at a 2% extra growth.
 
 According to Gemini, doing a simple difference in growth rates, the dot com bubble shaved off 3.8 percentage points from its pre growth equilibrium, while the housing bubble shaved off 6.3 percentage points, for a total of 10 percentage points. So something doesn't add up
- 
+
+I think that what isn't adding up is that the researchers are comparing hypothetical scenarios, they are not comparing the actual pre-bubble trends. This research should be understood as an early research in a model that will be fleshed out fully later on, in order to be made more empirically robust. Talking about specific numbers is out of the question, we can only talk about direction (bubbles grow the economy a modest amount)
