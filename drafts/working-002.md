@@ -83,7 +83,7 @@ Now, having clarified our framework we move on to identify it in a small selecti
 
 Electricity:
 
-- Taming electricity was one of the most important technological advances of humanity, but even as demonstrations of the new technology were performed on important cities such as Chicago or London, key uncertainties remained: *How* would electricity be generatd? *How* would it be distributed?
+- Taming electricity was one of the most important technological advances of humanity, but even as demonstrations of the new technology were performed on important cities such as Chicago or London, key uncertainties remained: *How* would electricity be generated? *How* would it be distributed?
 - Eventually those uncertainties were resolved, and the cities of the world were illuminated, but not all at the same time: London specially remained in the dark for longer than other great cities, partly because of pressure from legacy business interests, and partly for the fact that the London Stock Exchange (LSE) did suffer from an electricity-related bubble. The authors attribute that to the greatest openness of the LSE relative to its American counterpart, as evident in the lower commissions and the capacity to settle OTC trades during the weekend.
 
 Other authors conclude with this depiction of electricity as a great advancement for humanity, but a terrible investment. One of them is the investor, medical doctor, and amateur historian Michael J. Burry:
@@ -94,7 +94,7 @@ Yet, this same period of vertiginous growth was characterized by corporate blood
 
 - Fans of Tesla (the man, not the company) will be pleased to learn that as early as 1893, Edison's company lost the right to electrify Chicago World’s Fair – a seminal event in the introduction of electricity, and then was brought to its knees by the Panic of 1893, being forced into a merger by J.P. Morgan himself (the man, not the company).
 - In the Great Depression, Edison's former company (General Electric) lost 97% of its value, trading at its 19th century price.
-- The company that won the right to the 1983 Chicago World's Fair, Westinghouse, fared no better: It finally succumbed during the 1907 panic, re-emerging without its founder, George Westinghouse, who was fired from his own company.
+- The company that won the right to the 1893 Chicago World's Fair, Westinghouse, fared no better: It finally succumbed during the 1907 panic, re-emerging without its founder, George Westinghouse, who was fired from his own company.
 - In total, from 1910 to the start of the Roaring Twenties, more than 1500 electric companies were either bankrupted, bought out, or merged forcefully.
 
 How could so many electricity companies gone bankrupt when electricity was growing so fast? Were their CEOs stupid?
@@ -105,10 +105,7 @@ According to Edison himself, the fault lies in competition:
 
 According to modern historians, the fault lies not in our CEOs, but in technology:
 - "“Rapid progress in technologies along the grid and quickly outdated equipment such as local transformers have led to precipitous depreciation of utility assets."
-- “Killing Complaints with Courtesy”: The Role of Relationship Building in the Success of the Early U.S. Central Power Stations (1890–1938)"
-
-(source: https://michaeljburry.substack.com/p/the-blessed-fraud-recurrence
-(all of the above needs fact checking with alternative sources)
+- “Killing Complaints with Courtesy”: The Role of Relationship Building in the Success of the Early U.S. Central Power Stations (1890–1938)” [3]
 
 Radio:
 
@@ -146,8 +143,7 @@ Internet:
 
 - The last of the three most iconic bubbles reviewed was used to \*test\* their framework.  
 - They found that had they had their framework when the internet arose, they would predict it to be one of the most likely technologies to lead to a bubble, as it did on the Dot Com bubble.  
-- According to Dr. Burry, the Dot-Com bubble is misremembered in today's narrative: The bubble was caused by an *overinvestment* frenzy in *data-transmission technology* that created a supply that far exceeded what demand could absorb. For Dr. Burry, this frenzy was kept alive by mantras such as “internet traffic doubles every 100 days."
-Source: https://michaeljburry.substack.com/p/the-cardinal-sign-of-a-bubble-supply
+- According to Dr. Burry, the Dot-Com bubble is misremembered in today's narrative: The bubble was caused by an *overinvestment* frenzy in *data-transmission technology* that created a supply that far exceeded what demand could absorb. For Dr. Burry, this frenzy was kept alive by mantras such as “internet traffic doubles every 100 days.” [4]
 - Indeed, Dr. Burry's ideas closely match those exposed by the authors being reviewed, specifically the tendency to underestimate the role of competition during these bubbles: So it was in the Dot-com bubble, so it was in the rubber bubble almost a century earlier.
 
 \*\*\*
@@ -160,7 +156,7 @@ It's not so easy.
 
 The authors, writing *in 2019*, predicted that Tesla stock would be the next bubble. They referred to Elon Musk as a great ..., specifically naming the "Gigafactory" of Nevada as one of a series of sequential narrative shifts that Musk has constructed to "extend the window of uncertainty" of the electric vehicle business model and further delay the "day or reckoning" when Tesla finally has to show itself capable of fulfilling its promise of an affordable, mass-produced EV with sufficient range.
 
-This is really important because all throughout the book, the authors never referenced the idea of a "Window of Bubble Opportunity" as something that could be influenced by the entrepreneurs themselves, it always seemed to be taken as a given: Every new technology has a window of bubble opportunity. This is what economists calle "endogeneity" versus "exogenous" variables, and it should be a very important part of any type of causal explanation. Yet now it seems obvious that if the window of bubble opportunity is driven by business model uncertinty, then it's up to businessmen to decide it.
+This is really important because all throughout the book, the authors never referenced the idea of a "Window of Bubble Opportunity" as something that could be influenced by the entrepreneurs themselves, it always seemed to be taken as a given: Every new technology has a window of bubble opportunity. This is what economists call "endogeneity" versus "exogenous" variables, and it should be a very important part of any type of causal explanation. Yet now it seems obvious that if the window of bubble opportunity is driven by business model uncertainty, then it's up to businessmen to decide it.
 
 The authors affirmed that the market for Tesla in 2019 was underestimating the capacity of legacy firms to enter the EV market, and predicted that when they entered the market, Tesla's shares would "come down to earth". (p. 158).
 
@@ -189,3 +185,7 @@ Yep, it’s a bubble.
 [1] Guerron-Quintana, Pablo A., Tomohiro Hirano, and Ryo Jinnai. "Bubbles, Crashes, and Economic Growth: Theory and Evidence." *American Economic Journal: Macroeconomics* 15, no. 2 (2023): 333–71. https://doi.org/10.1257/mac.20220015
 
 [2] Brent Goldfarb and David A. Kirsch, *Bubbles and Crashes: The Boom and Bust of Technological Innovation* (Stanford University Press, 2019).
+
+[3] Michael J. Burry, "The Blessed Fraud Recurrence," *Cassandra Unchained* (Substack). https://michaeljburry.substack.com/p/the-blessed-fraud-recurrence
+
+[4] Michael J. Burry, "The Cardinal Sign of a Bubble: Supply," *Cassandra Unchained* (Substack). https://michaeljburry.substack.com/p/the-cardinal-sign-of-a-bubble-supply
