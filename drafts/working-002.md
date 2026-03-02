@@ -40,7 +40,7 @@ This tool is based on their *framework* for analyzing bubbles, which claims that
 - Pure Plays.
 
 - Novice Investor.
-  - "For any asset or class of assets, if many novice investors are investing when asset values are funda- mentally unknowable, this is reason for concern. Such investors are unlikely to have access to information that would allow them to provide sound reasons to be bullish and are more likely to make decisions based on what others have told them. That is, novice investors areunlikely to understand what is unknowable. Thus, understanding who else is investing and why is critical to making an informed evaluation." [2, p. 6]
+  - "For any asset or class of assets, if many novice investors are investing when asset values are fundamentally unknowable, this is reason for concern. Such investors are unlikely to have access to information that would allow them to provide sound reasons to be bullish and are more likely to make decisions based on what others have told them. That is, novice investors are unlikely to understand what is unknowable. Thus, understanding who else is investing and why is critical to making an informed evaluation." [2, p. 6]
     
 This gets condensed into the following practical advice:
 
