@@ -1,7 +1,8 @@
 # Essay Contest Project
 
 ## Project Overview
-This repository tracks the development of an essay for [CONTEST NAME — fill in].
+This repository tracks the development of an essay for ACX Book Review 2026.
+- Current essay: Review of *Bubbles and Crashes* (Goldfarb & Kirsch, 2019).
 All AI assistance is documented here for full transparency.
 
 ## Contest Rules
@@ -24,9 +25,9 @@ verify they comply with those rules and flag any potential violations.
 
 ### Language & Style
 - Language: English
-- Tone: [TO BE FILLED — e.g., formal / persuasive / narrative]
-- Word limit: [TO BE FILLED from contest rules]
-- Citation style: [TO BE FILLED if applicable]
+- Tone: Analytical and essayistic, in the style of ACX Reviews.
+- Word limit: No limit but recommended 2,000 -> 10,000 words.
+- Citation style: Manual footnotes only - write [1], [2] etc. inline and list them at the bottom.
 
 ## Chat Logging
 After each session, create `chats/YYYY-MM-DD-session-NNN/` containing:
