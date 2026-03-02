@@ -160,6 +160,8 @@ It's not so easy.
 
 The authors, writing *in 2019*, predicted that Tesla stock would be the next bubble. They referred to Elon Musk as a great ..., specifically naming the "Gigafactory" of Nevada as one of a series of sequential narrative shifts that Musk has constructed to "extend the window of uncertainty" of the electric vehicle business model and further delay the "day or reckoning" when Tesla finally has to show itself capable of fulfilling its promise of an affordable, mass-produced EV with sufficient range.
 
+This is really important because all throughout the book, the authors never referenced the idea of a "Window of Bubble Opportunity" as something that could be influenced by the entrepreneurs themselves, it always seemed to be taken as a given: Every new technology has a window of bubble opportunity. This is what economists calle "endogeneity" versus "exogenous" variables, and it should be a very important part of any type of causal explanation. Yet now it seems obvious that if the window of bubble opportunity is driven by business model uncertinty, then it's up to businessmen to decide it.
+
 The authors affirmed that the market for Tesla in 2019 was underestimating the capacity of legacy firms to enter the EV market, and predicted that when they entered the market, Tesla's shares would "come down to earth". (p. 158).
 
 So how has that prediction worked out, seven years later? 
@@ -177,7 +179,7 @@ More importantly, the author's thesis was that legacy automakers would enter the
 
 So let’s just bite the bullet and apply this framework to AI. I’m pretty sure that our priors won't influence us in any way.
 
-- … applying the framework …  
+- … applying the framework it's quite obvious that AI has all the elements of a bubble. In fact, it might be the Uberbubble (the mother of all bubbles) because it's expanding the life of other bubbles such as Tesla's. But yet, the framework doesn't allow us to time the bubble, which means it's incomplete …  
 - … Dr. Burry’s ideas on AI …
 
 Yep, it’s a bubble.
