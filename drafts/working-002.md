@@ -152,11 +152,28 @@ Source: https://michaeljburry.substack.com/p/the-cardinal-sign-of-a-bubble-suppl
 
 \*\*\*
 
-Finally, can we use this framework to predict future bubbles?
+Finally, can we use this framework to predict future bubbles? Maybe even better, to time them?
 
-The authors, writing *in 2019*, predicted that Tesla stock would be the next bubble. In the *seven years* after, the price of Tesla indeed went down, but then it came back up again. One of the world’s biggest bears\*, Michael Burry, writes that although he is bearish on Tesla, shorting it can be quite expensive due to its great volatility.
+It's not so easy.
+
+\*\*\*
+
+The authors, writing *in 2019*, predicted that Tesla stock would be the next bubble. They referred to Elon Musk as a great ..., specifically naming the "Gigafactory" of Nevada as one of a series of sequential narrative shifts that Musk has constructed to "extend the window of uncertainty" of the electric vehicle business model and further delay the "day or reckoning" when Tesla finally has to show itself capable of fulfilling its promise of an affordable, mass-produced EV with sufficient range.
+
+The authors affirmed that the market for Tesla in 2019 was underestimating the capacity of legacy firms to enter the EV market, and predicted that when they entered the market, Tesla's shares would "come down to earth". (p. 158).
+
+So how has that prediction worked out, seven years later? 
+Mixed results:
+
+Tesla's shares did fell xxx% in xxx, but then they went back up again, as Musk entered into politics first and then constructed even more "narrative shifts" with the rise of AI, such as Tesla's advances in autonomous robots (Optimus). 
+
+Indeed, one of the world’s biggest bears\*, Dr. Burry, writes that although he is bearish on Tesla, shorting it can be quite expensive due to its great volatility, so he does not recommend it. In 2021, Dr. Burry unfamously revealed put options against 800,100 Tesla shares on his hedge fund's SEC 13-F filing, right before Tesla's price rose again.
 
 *\*Dr. Burry is a human, and only metaphorically a bear. Unless…* 
+
+More importantly, the author's thesis was that legacy automakers would enter the electric market. Today, it's my understanding that although the EV market has expanded, the legacy auto makers have been unable to find enough demand for their products, specially as they face increased competition in certain markets from the State-supported Chinese EV manufacturers, something that the authors never predicted.
+
+\*\*\*
 
 So let’s just bite the bullet and apply this framework to AI. I’m pretty sure that our priors won't influence us in any way.
 
