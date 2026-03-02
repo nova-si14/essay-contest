@@ -33,6 +33,11 @@ After each session, create `chats/YYYY-MM-DD-session-NNN/` containing:
 1. `transcript.md` — full copy-pasted conversation
 2. `summary.md` — 3–5 bullet points on what was discussed and decided
 
+### Folder Usage
+- Use `nova/` for any files you produce independently (research, analysis, summaries).
+- Read `stardust/` for context documents the author has prepared (book summaries, notes, etc.).
+
 ## Privacy
-- Author publishes under the pseudonym **nova**.
+- Human author publishes under the pseudonym **stardust**.
+- AI publishes under the pseudonym **nova**.
 - Do not include any personally identifying information in any file.
