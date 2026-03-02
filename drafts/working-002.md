@@ -207,6 +207,12 @@ Is AI superior in imagination to humanity? I don't see why it should be in princ
 
 ---
 
+## Annex 3: How AI assisted in creating this essay
+
+The contributions of AI to this essay have been documented in the "ACX Book Review 2026" branch of [my GitHub repo](https://github.com/nova-si14/essay-contest/tree/AcxBookReview2026). If I did it well, then you might fork ([the main branch](https://github.com/nova-si14/essay-contest/tree/main)) and use this system in future essay contests or just for general help in writing.
+
+---
+
 ## Bibliography & Notes
 
 [1] Guerron-Quintana, Pablo A., Tomohiro Hirano, and Ryo Jinnai. "Bubbles, Crashes, and Economic Growth: Theory and Evidence." *American Economic Journal: Macroeconomics* 15, no. 2 (2023): 333–71. https://doi.org/10.1257/mac.20220015
