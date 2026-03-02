@@ -14,7 +14,7 @@ Thus, commit history directly reflects who contributed what.
 | Path | Contents |
 |------|----------|
 | `contest/rules.md` | Contest rules as provided |
-| `drafts/` | Every draft revision, versioned by date |
+| `drafts/` | Versioned essay drafts, named `word-NNN.md` (e.g., `initial-001.md`, `working-002.md`). The highest number is always the current working draft. |
 | `chats/` | Full transcripts and summaries of all Claude sessions |
 | `notes/ai-contributions.md` | Running log of AI vs author contributions |
 | `CLAUDE.md` | Instructions given to Claude at the start of each session |
