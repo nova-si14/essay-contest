@@ -83,9 +83,32 @@ Now, having clarified our framework we move on to identify it in a small selecti
 
 Electricity:
 
-- Taming electricity was one of the most important technological advances of humanity, and also one of the most dangerous: Demonstrations of the new technology would be performed on important cities such as New York and London, but key uncertainties remained: *How* would electricity be generated and distributed? Direct Current or Alternative Current?  
-- … Dr Burrys ideas on electricity …  
+- Taming electricity was one of the most important technological advances of humanity, but even as demonstrations of the new technology were performed on important cities such as Chicago or London, key uncertainties remained: *How* would electricity be generatd? *How* would it be distributed?
 - Eventually those uncertainties were resolved, and the cities of the world were illuminated, but not all at the same time: London specially remained in the dark for longer than other great cities, partly because of pressure from legacy business interests, and partly for the fact that the London Stock Exchange (LSE) did suffer from an electricity-related bubble. The authors attribute that to the greatest openness of the LSE relative to its American counterpart, as evident in the lower commissions and the capacity to settle OTC trades during the weekend.
+
+Other authors conclude with this depiction of electricity as a great advancement for humanity, but a terrible investment. One of them is the investor, medical doctor, and amateur historian Michael J. Burry:
+
+- Electricity coverage evolved from just 59 initial customers in 1882, to 10% of all American households in 1908, then to half of all American households in 1925, and despite the Great Depression, to 90% of all american households by 1949. Less than a century after the famous 1879 demonstration, all American households had been electrified.
+
+Yet, this same period of vertiginous growth was characterized by corporate bloodshed:
+
+- Fans of Tesla (the man, not the company) will be pleased to learn that as early as 1893, Edison's company lost the right to electrify Chicago World’s Fair – a seminal event in the introduction of electricity, and then was brought to its knees by the Panic of 1893, being forced into a merger by J.P. Morgan himself (the man, not the company).
+- In the Great Depression, Edison's former company (General Electric) lost 97% of its value, trading at its 19th century price.
+- The company that won the right to the 1983 Chicago World's Fair, Westinghouse, fared no better: It finally succumbed during the 1907 panic, re-emerging without its founder, George Westinghouse, who was fired from his own company.
+- In total, from 1910 to the start of the Roaring Twenties, more than 1500 electric companies were either bankrupted, bought out, or merged forcefully.
+
+How could so many electricity companies gone bankrupt when electricity was growing so fast? Were their CEOs stupid?
+
+According to Edison himself, the fault lies in competition:
+- “Recently there has been sharp rivalry between the companies, and prices have been cut so that there has been little profit in the manufacture of electrical machinery for anybody…"
+- The New York Times, Sunday, February 21, 1892
+
+According to modern historians, the fault lies not in our CEOs, but in technology:
+- "“Rapid progress in technologies along the grid and quickly outdated equipment such as local transformers have led to precipitous depreciation of utility assets."
+- “Killing Complaints with Courtesy”: The Role of Relationship Building in the Success of the Early U.S. Central Power Stations (1890–1938)"
+
+(source: https://michaeljburry.substack.com/p/the-blessed-fraud-recurrence
+(all of the above needs fact checking with alternative sources)
 
 Radio:
 
