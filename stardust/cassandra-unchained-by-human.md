@@ -38,3 +38,5 @@ On why electricity was a terrible investment:
 
 I wish I could have his sources for these claims, but I only have two: A scanning of The New York Times, Sunday, February 21, 1892, where the consolidation of Edison's company is mentioned and Edison himself quoted at length, and The New York Times, , Saturday, May 7, 1892, which announces that Westinghouse won the right to the wold's fair.
 
+Edison quote “Recently there has been sharp rivalry between the companies, and prices have been cut so that there has been little profit in the manufacture of electrical machinery for anybody…" - The New York Times, Sunday, February 21, 1892
+
