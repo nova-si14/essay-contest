@@ -1,4 +1,4 @@
-# Bubbles: Much more than you wanted to know
+# Bubbles & Crashes: Much more than you wanted to know
 
 ## Who is Afraid of the Big Bad Bubble?
 
@@ -32,27 +32,20 @@ This book is equally pragmatic, for its purpose is neither to discover secret la
 
 This tool is based on their *framework* for analyzing bubbles, which claims that four different factors increase the likelihood of a bubble forming around a new technology:
 
-- Genuine Uncertainty.
+- Narratives.
+  - "Bubbles are rarer when attention is focused on a single means of generating returns and more likely when there is uncertainty about how to exploit the new opportunity.". "Beliefs are coordinated through stories that circulate in the media and among investors. These stories or narratives piece together different facts, ideas, and guesses about a new technology and its potential profitability." "The arc of a narrative is often propelled or stalled by particular actors and events." (p. 14)
+
+- Uncertainty.
   - "For a given opportunity, is it known which business models will be profitable? Can we identify why entrepreneurs, investors, and analysts believe what they believe? Are such beliefs based on real, relevant past experience, or are they simply guesses? Do the players proclaim the future with certainty? Are investors and entrepreneurs making similar bets based on the same emergent, urgent narratives built on flimsy foundations? Do they all look to one another for social proof they are doing the right thing?" [2, p. 6]
 
-- Narratives.
-
 - Pure Plays.
+  - The authors call a "pure play" firm any firm that is "tightly coupled to the commercial fate of the technology or innovation" (p. 13). They identify their existence as a causal factor of a bubble for three reasons:
+  - First, the more business model uncertainty exists, the more likely are "pure play" firms to arise because they might capitalize on the new technology in a way that legacy firms might not dare to.
+  - Second, the existence of this firms increases the salience of the narrative, because the public can clearly associate the new technology to a specific organization.
+  - Third, these firms allow investors to literally "buy" into the bubble.
 
 - Novice Investor.
   - "For any asset or class of assets, if many novice investors are investing when asset values are fundamentally unknowable, this is reason for concern. Such investors are unlikely to have access to information that would allow them to provide sound reasons to be bullish and are more likely to make decisions based on what others have told them. That is, novice investors are unlikely to understand what is unknowable. Thus, understanding who else is investing and why is critical to making an informed evaluation." [2, p. 6]
-    
-This gets condensed into the following practical advice:
-
-  - **Story:** *Is the story particularly compelling or sticky?*
-  - **Narrative accelerator:** *Did something or somebody turbocharge the narrative?*  
-  - **Use:** *Is the story about something that you are familiar with in terms of use or imagination but in an area that you fail to understand the business well?*
-  - **Pure play:** *Is there a stock that is believed to track the fortunes of the technology directly?*  
-  - **Naïfs:** *Are there other naive investors in the market? Who is investing in this technology?*
-  - **Business model:** *Are there a variety of stories about how money will be made commercializing the new technology?*
-  - **Competition:** *Does the narrative ignore future competition?*  
-  - **Leverage:** *Are investments significantly leveraged? Do intermediaries play a large role?*  
-    - [2, p. 167]
 
 Indeed this framework is, itself, enmeshed in a narrative, which can be described as follows:
 
@@ -150,7 +143,21 @@ Internet:
 
 ## Predicting the next bubble
 
-Finally, can we use this framework to predict future bubbles? Maybe even better, to time them?
+This being a book from business studies proffessors, they are interested on practical advice, so they convert their framework to the following practical questionnaire:
+
+  - **Story:** *Is the story particularly compelling or sticky?*
+  - **Narrative accelerator:** *Did something or somebody turbocharge the narrative?*
+  - **Business model:** *Are there a variety of stories about how money will be made commercializing the new technology?*
+  - **Pure play:** *Is there a stock that is believed to track the fortunes of the technology directly?*  
+  - **Use:** *Is the story about something that you are familiar with in terms of use or imagination but in an area that you fail to understand the business well?*
+  - **Naïfs:** *Are there other naive investors in the market? Who is investing in this technology?*
+  - **Competition:** *Does the narrative ignore future competition?*  
+  - **Leverage:** *Are investments significantly leveraged? Do intermediaries play a large role?*  
+    - [2, p. 167]
+
+Accoding to the authors, by answering these questions we can predict future bubbles.
+
+But can we? Is more, can we do better and *time* them?
 
 It's not so easy.
 
