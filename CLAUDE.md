@@ -34,6 +34,13 @@ Drafts live in `drafts/` and follow the format `word-NNN.md`:
 - Ask before making structural changes to the argument.
 - The final word on style, phrasing, and ideas is always the author's.
 
+### Research Workflow
+- When conducting research, always create a dedicated `.md` file in `nova/` named by
+  topic or sub-topic (e.g., `nova/tesla.md`, `nova/fact-check.md`).
+- Always perform web search as part of any research task. If a research agent is used,
+  supplement its findings with your own web search to ensure coverage.
+- Flag anything that could not be independently verified online.
+
 ### Track AI Contributions
 - At the end of each session, note which ideas, edits, or structural suggestions
   originated from Claude vs the author.
@@ -60,7 +67,13 @@ At the end of each session, follow these steps in order:
 5. Instruct stardust to run `/export chats/YYYY-MM-DD-session-NNN/transcript.txt`.
    Nova cannot run `/export` — only stardust can, for accountability.
    Note: `/export` produces a `.txt` file, not `.md`.
-6. Once stardust confirms the export is done, commit and push the transcript file.
+6. Once stardust confirms the export is done, verify the file is present in the correct
+   `chats/YYYY-MM-DD-session-NNN/` folder.
+7. Ask stardust: "Should I push only the transcript file, or all pending changes?"
+   Commit and push according to the answer.
+8. Never allow context to be cleared without first completing all steps above (summary,
+   push, transcript export). Every context clear must be treated as a session close:
+   follow the full Chat Logging protocol before clearing.
 
 ### Folder Usage
 - Use `nova/` for any files you produce independently (research, analysis, summaries).

@@ -16,7 +16,7 @@ However, not all is bad in a bubble: A bubble is characterized by an investment 
 
 Regardless, my economic intuition is that the “good” aspects of the bubble are more-than-undone by the “bad” aspects.
 
-In academic economics, this debate is ongoing, but certain researchers suggest that the key is in the level of development of any given country: If the country is financially underdeveloped, then the “positive” aspects of the bubble would dominate, because the alternative is no investment at all. If the country is developed, then the negative aspects dominate. According to Guerron-Quintana *et al* [1] this latter is exactly what happened to America during the dot-com and the housing bubble. Simply put: Using counterfactual simulations the researchers found that the net effect of these bubbles was to first raise US GDP (when the bubbles arose) and then crash it (when they bursted). In total, they ended up raising the baseline US GDP level by a modest amount compared to an hypothetical scenario where the bubble would have been financially constrained, but less than if the bubble never arose in the first place.
+In academic economics, this debate is ongoing, but certain researchers suggest that the key is in the level of development of any given country: If the country is financially underdeveloped, then the “positive” aspects of the bubble would dominate, because the alternative is no investment at all. If the country is developed, then the negative aspects dominate. According to Guerron-Quintana *et al* [1] this latter is exactly what happened to America during the dot-com and the housing bubble. Simply put: Using counterfactual simulations the researchers found that the net effect of these bubbles was to first raise US GDP (when the bubbles arose) and then crash it (when they bursted). The net result, in a nutshell: for all their short-term froth, these bubbles left the American economy worse off than a world without them.
 
 For the authors of Bubbles & Crashes, 2019 (B\&C 2019), “*Bubbles are neither good nor bad, nor are they neutral*.” [2, p. 167] paraphrasing Mel Kranzberg’s First Law of Technology.
 
@@ -86,7 +86,7 @@ Other authors conclude with this depiction of electricity as a great advancement
 
 Yet, this same period of vertiginous growth was characterized by corporate bloodshed:
 
-- Fans of Tesla (the man, not the company) will be pleased to learn that as early as 1893, Edison's company lost the right to electrify Chicago World’s Fair – a seminal event in the introduction of electricity, and then was brought to its knees by the Panic of 1893, being forced into a merger by J.P. Morgan himself (the man, not the company).
+- Fans of Tesla (the man, not the company) will be pleased to learn that by 1892, Edison’s company had already lost the contract to electrify the Chicago World’s Fair to Westinghouse – a seminal event in the introduction of electricity – and that same year was forced into a merger orchestrated by J.P. Morgan himself (the man, not the company), creating General Electric.
 - In the Great Depression, Edison's former company (General Electric) lost 97% of its value, trading at its 19th century price.
 - The company that won the right to the 1893 Chicago World's Fair, Westinghouse, fared no better: It finally succumbed during the 1907 panic, re-emerging without its founder, George Westinghouse, who was fired from his own company.
 - In total, from 1910 to the start of the Roaring Twenties, more than 1500 electric companies were either bankrupted, bought out, or merged forcefully.
@@ -144,7 +144,7 @@ Internet:
 
 ## Predicting the next bubble
 
-This being a book from business studies proffessors, they are interested on practical advice, so they convert their framework to the following practical questionnaire:
+This being a book from business studies professors, they are interested on practical advice, so they convert their framework to the following practical questionnaire:
 
   - **Story:** *Is the story particularly compelling or sticky?*
   - **Narrative accelerator:** *Did something or somebody turbocharge the narrative?*
@@ -156,7 +156,7 @@ This being a book from business studies proffessors, they are interested on prac
   - **Leverage:** *Are investments significantly leveraged? Do intermediaries play a large role?*  
     - [2, p. 167]
 
-Accoding to the authors, by answering these questions we can predict future bubbles.
+According to the authors, by answering these questions we can predict future bubbles.
 
 But can we? Is more, can we do better and *time* them?
 
