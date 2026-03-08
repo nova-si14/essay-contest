@@ -201,7 +201,7 @@ So, how to value the authors predictions?
 First of all: The authors never made a prediction worthy of a superforecaster (i.e. they didn´t predicted when and at what level TSLA´s price would return).
 
 However, we can make our best guess as to what was their specific prediction:
-- Given that the authors were writing *before* 2019, their prediction should be interpreted as having a price target for TSLA below its 2019 level. Indeed, in another article they have referred to Porsche ($10 B valuation) as a more appropriate analogy for TSLA, which would imply a (split-adjusted) stock price of $$$.
+- Given that the authors were writing *before* 2019, their prediction should be interpreted as having a price target for TSLA below its 2019 level. Indeed, in another article they have referred to Porsche's $10 B valuation as a more appropriate analogy for TSLA, which would imply a (split-adjusted) stock price of $xx.
 - Given that the authors had specifically used 7 years as a measurement of the underlying trend, then we can estimate that they expected this fall in price to come earlier than 7 years.
 
 Now, 7 years later, this prediction has not come true. I believe that is because Elon Musk has proven himself capable of *building* industrial manufacturing, specially with Chinese help, which actually justifies a valuation higher than Porsche.
