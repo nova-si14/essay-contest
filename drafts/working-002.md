@@ -164,20 +164,51 @@ It's not so easy.
 
 \*\*\*
 
-The authors, writing *in 2019*, predicted that Tesla stock would be the next bubble. They referred to Elon Musk as a great ..., specifically naming the "Gigafactory" of Nevada as one of a series of sequential narrative shifts that Musk has constructed to "extend the window of uncertainty" of the electric vehicle business model and further delay the "day or reckoning" when Tesla finally has to show itself capable of fulfilling its promise of an affordable, mass-produced EV with sufficient range.
+**The case against TSLA**
+- 
+In the book, the authors predicted that Tesla stock would be the next bubble. They specifically named the "Gigafactory" of Nevada as one of a series of sequential narrative shifts that Musk has constructed to "extend the window of uncertainty" of the electric vehicle business model and further delay the "day or reckoning" when Tesla finally has to show itself capable of fulfilling its promise of an affordable, mass-produced EV with sufficient range.
 
-The authors affirmed that the market for Tesla in 2019 was underestimating the capacity of legacy firms to enter the EV market, and predicted that when they entered the market, Tesla's shares would "come down to earth". (p. 158).
+Before publishing, the authors had spent years going to the media and publicly warning about what they perceived as the overvaluation of Tesla, with arguments similar to those made in this book. Again, I´m referring to two academics making the bearish case against TSLA *before* the name of Musk was made synonimous with "Dark MAGA", so they must have been very convinced of their thesis, which can be summarized as this:
+1. TSLA would be unable to meet its production goals (5,000 Model S a week)
+2. Even if it did, it would not be able to produce a $40k car.
+3. Maybe if it had a 25% profit margin (more like a software business than a car manufacturer) it could justify its 2018-2019 valuation, but it won´t.
+4. It will face competition from legacy auto manufacturers sooner rather than later.
+
+In the book, the authors affirmed that the market for Tesla in 2019 was underestimating the capacity of legacy firms to enter the EV market, and predicted that when they entered the market, Tesla's shares would "come down to earth". (p. 158).
 
 So how has that prediction worked out, seven years later? 
 Mixed results:
 
-Tesla's shares did fell xxx% in xxx, but then they went back up hitting a high of yyyy in yyyy, as Musk entered into politics first and then constructed even more "narrative shifts" with the rise of AI, such as Tesla's advances in autonomous robots such as Optimus. (check check check) 
+1. In 2021 TSLA was able to meet and exceed its 5,000 model S a week production capacity, thanks to its Gigafactory Shanghai and, later, the Gigafactories on other countries.
+2. It wasn´t able to meaningfully offer a $40k car, with its average price being $50k during 2020 - 2021.
+3. Regardless, it managed to mantain the 25% margin thanks to "efficiencies" on Gigafactory Shanghai.
+4. It did faced competition from legacy players, but the competition that really mattered came from *Chinese* car manufacturers, with BYD overthroning TSLA as early as 2026.
+
+*Maybe that Gigafactory Shanghai ended up being a Faustian bargain for Musk.*
+
+Taken together, all of this should have justified TSLA´s valuation *in 2019*, which the authors called "a bubble". Far from that, what happened was that TSLA´s price went to the moon in 2021, at the same time that Musk changed its narrative to robotics by unveiling "Optimus" in August 2021.
 
 Indeed, one of the world’s biggest bears\*, Dr. Burry, writes that although he is bearish on Tesla, shorting it can be quite expensive due to its great volatility, so he does not recommend it. In 2021, Dr. Burry unfamously revealed put options against 800,100 Tesla shares on his hedge fund's SEC 13-F filing, right before Tesla's price rose again.
 
 *\*Dr. Burry is a human, and only metaphorically a bear. Unless…* 
 
-More importantly, the author's thesis was that legacy automakers would enter the electric market. Today, it's my understanding that although the EV market has expanded, the legacy auto makers have been unable to find enough demand for their products, specially as they face increased competition in certain markets from the State-supported Chinese EV manufacturers, something that the authors never predicted.
+Now, TSLA is arguably benefitting from the broader "AI bubble", and is by any financial metric "the most overvalued company" in history.
+
+So, how to value the authors predictions?
+
+\*\*\*
+
+First of all: The authors never made a prediction worthy of a superforecaster (i.e. they didn´t predicted when and at what level TSLA´s price would return).
+
+However, we can make our best guess as to what was their specific prediction:
+- Given that the authors were writing *before* 2019, their prediction should be interpreted as having a price target for TSLA below its 2019 level. Indeed, in another article they have referred to Porsche ($10 B valuation) as a more appropriate analogy for TSLA, which would imply a (split-adjusted) stock price of $$$.
+- Given that the authors had specifically used 7 years as a measurement of the underlying trend, then we can estimate that they expected this fall in price to come earlier than 7 years.
+
+Now, 7 years later, this prediction has not come true. I believe that is because Elon Musk has proven himself capable of *building* industrial manufacturing, specially with Chinese help, which actually justifies a valuation higher than Porsche.
+
+**However, the market didn´t interpreted this development as justifying TSLA´s 2019 valuation, but as justifying an even more overvalued price level. The jury is still out on whether that new price level is a bubble, which has now been linked to the broader AI & robotics bubble.**
+
+More importantly, the timeframe in which we should value whether TSLA is a bubble or not can´t rely on a fixed number of years (i.e. 7 years) but instead it needs to rely on Musk´s ability to extend business model uncertainty.
 
 \*\*\*
 
