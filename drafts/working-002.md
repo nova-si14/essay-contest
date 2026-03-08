@@ -32,12 +32,12 @@ This book is equally pragmatic, for its purpose is neither to discover secret la
 
 This tool is based on their *framework* for analyzing bubbles, which claims that four different factors increase the likelihood of a bubble forming around a new technology:
 
+- Uncertainty.
+  - "For a given opportunity, is it known which business models will be profitable? Can we identify why entrepreneurs, investors, and analysts believe what they believe? Are such beliefs based on real, relevant past experience, or are they simply guesses? Do the players proclaim the future with certainty? Are investors and entrepreneurs making similar bets based on the same emergent, urgent narratives built on flimsy foundations? Do they all look to one another for social proof they are doing the right thing?" [2, p. 6]
+
 - Narratives.
   - "[B]eliefs must be sufficiently focused to drive up the value of a class
 of assets". "Bubbles are rarer when attention is focused on a single means of generating returns and more likely when there is uncertainty about how to exploit the new opportunity.". "Beliefs are coordinated through stories that circulate in the media and among investors. These stories or narratives piece together different facts, ideas, and guesses about a new technology and its potential profitability." "The arc of a narrative is often propelled or stalled by particular actors and events." (p. 14)
-
-- Uncertainty.
-  - "For a given opportunity, is it known which business models will be profitable? Can we identify why entrepreneurs, investors, and analysts believe what they believe? Are such beliefs based on real, relevant past experience, or are they simply guesses? Do the players proclaim the future with certainty? Are investors and entrepreneurs making similar bets based on the same emergent, urgent narratives built on flimsy foundations? Do they all look to one another for social proof they are doing the right thing?" [2, p. 6]
 
 - Pure Plays.
   - The authors call a "pure play" firm any firm that is "tightly coupled to the commercial fate of the technology or innovation" (p. 13). They identify their existence as a causal factor of a bubble for three reasons:
