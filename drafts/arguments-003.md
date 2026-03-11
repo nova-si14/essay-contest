@@ -1,6 +1,6 @@
 # Synthesis of essay arguments
 
-For the first time in recorded history, we have real-time tools to detect financial bubbles as they form. If any of those historical bubbles were forming today, we would have Metaculus forecasters and Polymarket traders pricing their probability in real time. So here is a genuinely novel question: we have a candidate bubble forming right now, in AI. What do those tools say? Do they catch it?
+We are currently experiencing the birth of a new technology which may or may not form a financial bubble, at the same time when we have new "prediction technology": Prediction Markets and Superforecasters. If any  historical bubbles were forming today, we would have Metaculus forecasters and Polymarket traders pricing their probability in real time. So here is a genuinely novel question: we have a candidate bubble forming right now, in AI. What do those tools say? Do they catch it?
 
 ***
 
@@ -61,15 +61,22 @@ Obviously AI is a perfect example of a situation where high uncertainty has allo
 
 My remaining problem however is with *superforecasters*.
 
-One secondary hypothesis that I have explored is with respect to why superforecasters are so accurate with respect to so many different fields, as explained by Tetlock in "Superforecasting".
+One secondary hypothesis, which is close to my instinct, is that superforecasters are *intelligent* people. Therefore, the belief that AI will lead to ASI which will lead to world takeover is a form of tribe affiliation, which is funnily enough a cognitive bias. I believe that for real world takeover, intelligence alone isn't enough: You need a Nietzschean "will to live", which is correlated with having other forms of tribal bias.
 
-A plausible secondary hypothesis is that superforecasters may be simply very good at behaving like a scaled-down version of a prediction market. That is, they are great at the process of aggregating information that would otherwise be done by the prediction markets.
+Against this is the idea that superforecasters are people who are immune to cognitive biases... but maybe this is the one cognitive bias that they are falling in?
+
+Another secondary hypothesis that I have explored is  that Superforecasters may be simply very good at behaving like a scaled-down version of a prediction market. That is, they are great at the process of aggregating information that would otherwise be done by the prediction markets.
+
+- Pro
 
 If that is true then they are simply behaving *as if* they are forecasting what a prediction market would forecast, thus making them as accurate as prediction markets overall with the added benefit that they can scale *down* to questions that would otherwise not have enough liquidity for the prediction market to operate in a well-calibrated manner.
 
 Therefore, in this argument the biases of superforecasters *will* become as correlated with each other as that of the prediction markets. That might explain why some people (I think it was Moskovitz from the Effective Altruism community) have said that "the smartest people" they know are very worried about P(doom) of AI. Thrown in a certain bias of "tribe identification" (i.e. of course that intelligent people will believe that a superintelligent entity can takeover the world) and you get a too high P(doom).
 
 Now, why haven't we discovered this before? Because we didn't have neither prediction markets nor superforecasting by the time of any of the other technologies that have revolutionized but not transformed society, creating financial bubbles in the process (i.e. Dot com bubble, aviation, electricity).
+
+
+- Against
 
 The problem with this secondary hypothesis is that, at least according to Scott's review of "Superforecasting", it probably isn't how superforecasting works: Scott's review gave me the impression that the secret sauce of "superforecasters" is to avoid normal psychological cognitive biases (Scott literally mentions that the kind of things that they come from the same "tradition" of logical thinking, Bayesianism and awareness of cognitive biases than the "rationalist" community).
 
