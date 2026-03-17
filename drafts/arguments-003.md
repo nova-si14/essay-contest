@@ -8,12 +8,21 @@ Then we can analyze whether AI is a "bubble" or not:
 - P(B | A) + P(nB | A) = P(A): The probability that AI is a "Bubble" given that it's an Abnormal technology plus the probability that AI is not a "bubble" given that it's Abnormal technology must be equal to the probability that AI is Abnormal technology.
 - P(B | N) + P(nB | N) = P(N): The same but with AI being Normal technology.
 
+Therefore, as long as AI isn't confirmed as a bubble, we can updat our probability of it being Abnormal technology as:
+
+P(A | nB) = ( P(nB | A) * P(A) ) / P(nB)
+Probability of AI being Abnormal technology given that it's not a bubble = The probability that AI is not a bubble given that it's Abnormal technology * The probability that it's Abnormal technology, divided over the probability that it's not a bubble.
+
+But if we observe that AI is a bubble, we can update our probablity of it being Abnormal technology thus:
+
+P(A | B) = ( P(B | A) * P(A) ) / P(B)
+
+
 ***
 
 With this essay, which is putatively a book review, I am actually making a broader argument that:
 - the "AI revolution" will be an important but "normal" technology like electricity, aviation, or the internet (i.e. one that will revolutionize society),
 - but not a "abnormal" technology like the Industrial Revolution or the Agricultural Revolution (i.e. one that will "transform" society by 10x economic growth as argued by ..., or one that can change the nature of economic relationships by pushing us from a non-Malthusian equilibrium to a Malthusian-equilibrium),
-- let alone a technology that will bring us the "singularity" (i.e. one that will definitively "take over" the world).
 
 To be precise about what I mean: Robin Hanson, in his paper "Long-Term Growth as a Sequence of Exponential Modes" (2000), showed that human economic history is not a smooth growth curve but a sequence of three distinct regimes, each roughly one hundred times faster than the previous. The forager economy had a world product doubling time of around 224,000 years. The agricultural revolution produced a doubling time of around 900 years. The industrial revolution — our current mode — brought that down to around fifteen years. If AI were to trigger a *fourth* mode transition on historical par with those earlier shifts, the doubling time would drop to weeks or days. That is what I mean by "abnormal": not merely a fast or widely-adopted technology, but one that triggers this kind of phase change in the organizing logic of the economy.
 
