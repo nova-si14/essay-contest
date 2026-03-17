@@ -1,6 +1,12 @@
 # Synthesis of essay arguments
 
-We are currently experiencing the birth of a new technology which may or may not form a financial bubble, at the same time when we have new "prediction technology": Prediction Markets and Superforecasters. If any  historical bubbles were forming today, we would have Metaculus forecasters and Polymarket traders pricing their probability in real time. So here is a genuinely novel question: we have a candidate bubble forming right now, in AI. What do those tools say? Do they catch it?
+First of all, let us analyze whether AI is "Normal" Technology or "Abnormal" Technology:
+- A "Normal" technology is one whose aggregate effects will mantain long term economic growth near 2% per year, which is its average since the Industrial Revolution.
+- An "Abnormal" technology is one which will be "Transformative", that is: Which tranforms the economy much like the Industrial Revolution or the Agricultural Revolution did. For our purposes, this can be conceptualized as shifting long term economic growth to 10% or 20% per year.
+
+Then we can analyze whether AI is a "bubble" or not:
+- P(B | A) + P(nB | A) = P(A): The probability that AI is a "Bubble" given that it's an Abnormal technology plus the probability that AI is not a "bubble" given that it's Abnormal technology must be equal to the probability that AI is Abnormal technology.
+- P(B | N) + P(nB | N) = P(N): The same but with AI being Normal technology.
 
 ***
 
