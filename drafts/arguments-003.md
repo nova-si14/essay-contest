@@ -4,6 +4,92 @@ First of all, let us analyze whether AI is "Normal" Technology or "Abnormal" Tec
 - A "Normal" technology is one whose aggregate effects will mantain long term economic growth near 2% per year, which is its average since the Industrial Revolution.
 - An "Abnormal" technology is one which will be "Transformative", that is: Which tranforms the economy much like the Industrial Revolution or the Agricultural Revolution did. For our purposes, this can be conceptualized as shifting long term economic growth to 10% or 20% per year.
 
+Second, we'll determine the conditional likelihood that AI is normal or Abnormal technology or not given that it's a Bubble or not.
+
+***
+
+With this essay, which is putatively a book review, I am actually making a broader argument that:
+- the "AI revolution" will be an important but "normal" technology like electricity, aviation, or the internet (i.e. one that will revolutionize society),
+- but not a "abnormal" technology like the Industrial Revolution or the Agricultural Revolution (i.e. one that will "transform" society by 10x economic growth as argued by ..., or one that can change the nature of economic relationships by pushing us from a non-Malthusian equilibrium to a Malthusian-equilibrium),
+
+To be precise about what I mean: Robin Hanson, in his paper "Long-Term Growth as a Sequence of Exponential Modes" (2000), showed that human economic history is not a smooth growth curve but a sequence of three distinct regimes, each roughly one hundred times faster than the previous. The forager economy had a world product doubling time of around 224,000 years. The agricultural revolution produced a doubling time of around 900 years. The industrial revolution — our current mode — brought that down to around fifteen years. If AI were to trigger a *fourth* mode transition on historical par with those earlier shifts, the doubling time would drop to weeks or days. That is what I mean by "abnormal": not merely a fast or widely-adopted technology, but one that triggers this kind of phase change in the organizing logic of the economy.
+
+First of all, our prior about AI being Abnormal technology should be low, but not impossible: After all, over the last ten millenia we had two Abnormal Technologies: Agriculture and Industry.
+
+However, the probability that it's Abnormal technology should be *lower than* the probability of other forms of x-risk such as WWIII. After all, over the last **century** we had two world wars.
+
+***
+
+Why would AI be Abnormal Technology?
+
+Scott Alexander in "AI as Profoundly Abnormal Technology" (AI Futures Project, July 2025). Alexander argues that AI is categorically different from prior technologies because of its generality and human-similarity: it integrates into existing workflows "the way a lawyer might consult a paralegal," bypassing the institutional gatekeeping that slowed electrification, the automobile, and even the internet. He points to remarkable diffusion data — 40% of US adults, 76% of doctors, 79% of legal professionals, and 62% of programmers using generative AI within roughly two years of ChatGPT's release — and argues this unprecedented adoption speed creates the conditions for recursive self-improvement and superintelligence within two to ten years. 
+
+Why would AI be Normal technology?
+
+1. Super Intelligent AI is not synonymous with an all-knowing AI.
+
+The fact that hallucinations happen is a proof of this. Hallucinations happen whenever:
+a. The AI does not knows something or whatever the corpus of humanity that AI has absorbed does not know something and
+b. Whenever its intelligence is not enough to realize that it doesn't know something.
+
+The "unknown unknowns" are still a barrier for the intelligence that AI has displayed.
+
+But what about the future? Can AI become superforecsters?
+That depends on your philosophical outlook about the future. I believe that the future is determined by randomness, and the farther away in the future we look, the more randomness there is. Much like when you are shuffling a deck of cards: The more shuffles you apply the more random is the deck, so much tath at the seventh shuffle you have a deck tha thas "never existed".
+
+IF this is true, then the future is not written in stone, but tomorrow might be. Therefore AI could be a superforecaster but only for things that are very soon to come. Less of God and more of the ORacle of Delphi.
+
+So even the most advanced AI would not be "god in a datacenter" given that God is all-knowing.
+
+2. Humans aren't horses, Humans are Factors.
+
+Watching the Humans Need Not Apply video by CGP Grey, I realized of a key difference between Human and Horse labor: Human labor is modelled as a *factor* of production, which means that if there is no human to apply labor, things do not get produced. Horse labor, on the other hand, was an input to a service (transportation). Therefore, as long as 1 unit of human labor is required to produce stuff, then humans will continue to find employment and revenue from AI-led productivity.
+
+Per Ricardo's Law of Comparative Advantage, as long as the capabilities of AI are "spiky" (i.e. AI is better at some things than others) in a way that it's different than the spiky capabilities of humans (i.e. Humans are worst than AI, but we are less worst on some stuff than others), then the optimal allocation will be to keep humans working on the thing that we are less worst at.
+
+Ricardo's law of Comparative Advantage is probably one of the worst taught concepts in econ. One day, someone who did not understood it told me that he needed not having it explained to him, for it was explained in one trade class. It was explained to me on an entire undergrad course, and every single teacher taught it wrong.
+
+Ricardo's Law depends on the idea of *Economic Cost*. The Economic Cost is not what a normal person would call "Cost". The Economic cost is what a normal person would call cost (accounting cost) plus the Opportunity Cost (the next best alternative).
+
+Every unit of production of good A has an opportunity cost of good B. Therefore, if England is twice as good at producing the Good A relative to B, and Portugal is equally good at producing both yet worst than England, it will have gains from trade by having England specializing in producing Good A and having Portugal producing Good B. Why? Because every unit of good B produced by England is TWO units of good A NOT PRODUCED.
+
+Now this is similar to AI: Therefore, if AI is twice at good in sector A than sector B of the economy, the opportunity cost of having the marginal agent going to sector B is two units of sector A not produced. Therefore, the economically optimal thing is to have all of the AI agents take over sector A and humans specialize in sector B.
+
+What about the costs, isn't AI like super cheap and humans super expensive?
+Well, my prior as somebody not from the first world is that AI is super expensive, and humans are super cheap.
+But regardless, the costs are a result of supply and demand and they will adapt: Even if it may seem like we can just "spin off" infinite AI agents, every agent has an actual cost in resources: Storage, RAM, etc... and as we spin off more and more, the agentic costs will increase and increase. Meanwhile, humans wages will adapt as we specialize in our comparative advantage. In the end, equilibrium will be reached when all agents will be dedicated to Sector A and all humans to Sector B.
+
+***
+
+All of the previous is about Superintelligent AI, but soon I will give my reasoning on why I predict that a Super resesearch LLM-based AI will NOT give rise to Superintelligent AI in the way that was explained by AI 2027.
+
+So, let us see what are the kinds of things that Humans do well, and the kind of things that AIs do well:
+
+1. Humans get lucky:
+
+Now, I believe that another part of what makes us human is our luck. I believe that that luck comes in part from the randomness that is built into our model. LLMs by being next token predictive are defined as having to choose amongst the most probable token. Therefore, they are unlikely to find new research venues by luck, by accident. They're unlikely to find new great business models by luck, by accident because that accident comes from the fat tails resulting from the randomness of human behaviors. The lucky, the few lucky fat tails that leads to a Eureka moment and which are the counterpart of the many unlucky fat tails which lead to absolute messing around and disaster. So, even if it seems that sometimes humans take longer than an LLM, that is absolutely correct. We are 10x slower than LLMs, but we're also more that very slowness that comes from our randomness that also makes us capable of being more lucky than these LLMs.
+
+Therefore, 
+a. To the extent that there are scientific discoveries taht can't be extracted from the existing corpus of human knowledge and depend on luck, like penicilin, AI can not help us with that. 
+b. But also, to the extent that there are some scientific discoveries that can be extracted from the existing corpus of human knowledge, I expect AI to help us with some of that, but not all. Some scientific discoveries are made by people coming from one discipline into another, bringing with them a new way of thinking about things. AI can't do that, because by definition it can only think about things in the way that current "experts" think.
+
+For this reason I doubt that AI can hlep us get to Superintelligent AI
+
+with the AI 2027 guys, who one part of their argument is that AI is going to be much better at having research taste than human AI researchers. I think not. I think that they're going to be much worse because they're not going to get lucky. Therefore, in the example of AI 2027, where an AI researcher asked for some idea to the LLMs, and then the LLMs, this counter geniuses tells them, "Oh, we find that. We tried that two weeks ago when we found it to be unpromising." Then probably that is the idea that is going to actually take us to AGI, and probably AI instead of accelerating research. by without human input will actually decelerate research without human input.
+
+
+2. Humans are better at socializing with humans:
+
+White color workers are great at creating forecasting fromA small sample. They're great at generalizing. They're great at finding patterns. That's what makes them humans. And LLMs have even more accurate, better, and stronger forecast and pattern finding than humans. But they need a lot of pattern. They need a lot of sample. They need to swallow up the entire uh corpus of human product. That cannot scale down to an enterprise. So if you have a human worker who is already part of your culture, and you have a a way of communicating with him that is much superior to the way that you communicate with some LLMs. So the human workers have an advantage.
+
+3. Humans are great customers:
+
+that the economy is made for humans. Humans decide. Humans are the customers. Who else can What can be more necessary for production than the productive role of human as a customer? Deciding, telling the telling somebody I want this. I want that.
+
+All of this makes me very confident ahtat Human Labor will continue to be a Factor of Production after AI.
+
+***
+
 Then we can analyze whether AI is a "bubble" or not:
 - P(B | A) + P(nB | A) = P(A): The probability that AI is a "Bubble" given that it's an Abnormal technology plus the probability that AI is not a "bubble" given that it's Abnormal technology must be equal to the probability that AI is Abnormal technology.
 - P(B | N) + P(nB | N) = P(N): The same but with AI being Normal technology.
@@ -17,22 +103,9 @@ But if we observe that AI is a bubble, we can update our probablity of it being 
 
 P(A | B) = ( P(B | A) * P(A) ) / P(B)
 
+So. is AI a bubble?
 
-***
-
-With this essay, which is putatively a book review, I am actually making a broader argument that:
-- the "AI revolution" will be an important but "normal" technology like electricity, aviation, or the internet (i.e. one that will revolutionize society),
-- but not a "abnormal" technology like the Industrial Revolution or the Agricultural Revolution (i.e. one that will "transform" society by 10x economic growth as argued by ..., or one that can change the nature of economic relationships by pushing us from a non-Malthusian equilibrium to a Malthusian-equilibrium),
-
-To be precise about what I mean: Robin Hanson, in his paper "Long-Term Growth as a Sequence of Exponential Modes" (2000), showed that human economic history is not a smooth growth curve but a sequence of three distinct regimes, each roughly one hundred times faster than the previous. The forager economy had a world product doubling time of around 224,000 years. The agricultural revolution produced a doubling time of around 900 years. The industrial revolution — our current mode — brought that down to around fifteen years. If AI were to trigger a *fourth* mode transition on historical par with those earlier shifts, the doubling time would drop to weeks or days. That is what I mean by "abnormal": not merely a fast or widely-adopted technology, but one that triggers this kind of phase change in the organizing logic of the economy.
-
-Scott Alexander in "AI as Profoundly Abnormal Technology" (AI Futures Project, July 2025). Alexander argues that AI is categorically different from prior technologies because of its generality and human-similarity: it integrates into existing workflows "the way a lawyer might consult a paralegal," bypassing the institutional gatekeeping that slowed electrification, the automobile, and even the internet. He points to remarkable diffusion data — 40% of US adults, 76% of doctors, 79% of legal professionals, and 62% of programmers using generative AI within roughly two years of ChatGPT's release — and argues this unprecedented adoption speed creates the conditions for recursive self-improvement and superintelligence within two to ten years. This is a serious argument and I will engage with it directly. But I think it mistakes speed of adoption for scope of economic transformation, and I will argue that the bottleneck framework of Benjamin F. Jones (NBER, 2025) explains why the two can come apart.
-
-Therefore, IF this broader argument is correct, THEN "AI" is probably today a financial bubble just like those technologies mentioned (i.e. one where the expectations of value are way too high relative to the actual value *that can actually be captured by the businesses providing the companies*).
-
-P (B | N) = 1 Probability of AI being a financial bubble given that AI is a normal technology is certain (100%). The actual P(B) is slightly lower given the improbable scenario where AI is not a normal technology.
-
-Before asserting that P(B|N) = 1, it is worth checking whether Goldfarb and Kirsch's four conditions actually hold for AI. The framework requires: (1) genuine uncertainty about the business model, (2) a compelling narrative about transformative profitability, (3) pure-play firms tightly coupled to the technology, and (4) a significant presence of novice investors. Checking each in turn:
+Let's see whether  Goldfarb and Kirsch's four conditions actually hold for AI: The framework requires: (1) genuine uncertainty about the business model, (2) a compelling narrative about transformative profitability, (3) pure-play firms tightly coupled to the technology, and (4) a significant presence of novice investors. Checking each in turn:
 
 - *Business model uncertainty* ✓: No consensus exists on how frontier AI labs will generate sustained profits. OpenAI, Anthropic, and their peers are running at massive losses. The path from impressive capabilities to the kind of software margins implied by their valuations is genuinely unclear.
 - *Narrative* ✓: The AGI and superintelligence narrative is the most compelling technology story since the internet, with eschatological qualities (the singularity, existential risk) that amplify emotional investment far beyond what any revenue projection can justify.
