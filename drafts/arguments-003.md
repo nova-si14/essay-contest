@@ -67,7 +67,24 @@ So, let us see what are the kinds of things that Humans do well, and the kind of
 
 1. Humans get lucky:
 
-Now, I believe that another part of what makes us human is our luck. I believe that that luck comes in part from the randomness that is built into our model. LLMs by being next token predictive are defined as having to choose amongst the most probable token. Therefore, they are unlikely to find new research venues by luck, by accident. They're unlikely to find new great business models by luck, by accident because that accident comes from the fat tails resulting from the randomness of human behaviors. The lucky, the few lucky fat tails that leads to a Eureka moment and which are the counterpart of the many unlucky fat tails which lead to absolute messing around and disaster. So, even if it seems that sometimes humans take longer than an LLM, that is absolutely correct. We are 10x slower than LLMs, but we're also more that very slowness that comes from our randomness that also makes us capable of being more lucky than these LLMs.
+Now, I believe that another part of what makes us human is our luck. I believe that that luck comes in part from the randomness that is built into our model.
+
+LLMs by being next token predictive are defined as having to choose amongst the most probable token. Therefore, they are unlikely to find new research venues by luck, by accident. They're unlikely to find new great business models by luck, by accident because that accident comes from the fat tails resulting from the randomness of human behaviors. The lucky, the few lucky fat tails that leads to a Eureka moment and which are the counterpart of the many unlucky fat tails which lead to absolute messing around and disaster. So, even if it seems that sometimes humans take longer than an LLM, that is absolutely correct. We are 10x slower than LLMs, but we're also more that very slowness that comes from our randomness that also makes us capable of being more lucky than these LLMs.
+
+What do I mean by the fat tails?
+Humans learn by having our neurons create synaptic links to each others. These serve to reinforce our existing knowledge, as well as being the sources of ideas that "pop into our heads".
+
+Let's say that we can analyze human ideas as an spectrum going from "absolutely crazy random nonsense" on the left of the spectrum, and "absolute genius" on the other end. The ideas of most humans are on the middle, being "pretty normal, reinforcement of existing learning", as if following a gaussian curve. This is the area where AI excels.
+
+But there are other, let's say those with schizofrenia, where their ideas are closer to "absolutlely crazy random nonsense". THEY are following me. etc...
+
+finally, there are some whose ideas are closer to the "absolute genius". That is whom we call genius.
+
+In total, humanity's probability distribution curve over this spectrum of ideas is NOT a gaussian curve, but rather it has fat tails: Sometimes we get some of the bad idas, other times some of the good.
+
+AIs, despite hallucinating do not hallucinate the schizophrenic paranoias of humans. Thank god. But that also indicates that even their hallucinations look like they should be on the middle of the spectrum, is just that they are guessing wrong the next token.
+
+But what makes humans genius are our capabilities of moving to the fat tails, to the genius end of the spectrum. So even a country of AIs ni a datacenter would never be a country of geniuses in a datacenter. Sorry Dario.
 
 Therefore, 
 a. To the extent that there are scientific discoveries taht can't be extracted from the existing corpus of human knowledge and depend on luck, like penicilin, AI can not help us with that. 
