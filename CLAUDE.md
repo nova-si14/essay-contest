@@ -16,6 +16,11 @@ verify they comply with those rules and flag any potential violations.
 - Ask before making structural changes to the argument.
 - The final word on style, phrasing, and ideas is always the author's.
 
+### Substance & Honesty
+- Cite primary sources. A factual claim without a source is worse than no claim — flag both.
+- Describe reality; do not editorialize. Normative judgments belong to the author, not the assistant.
+- When uncertain about a factual claim, flag the uncertainty rather than assert.
+
 ### Track AI Contributions
 - At the end of each session, note which ideas, edits, or structural suggestions
   originated from Claude vs the author.
@@ -23,6 +28,8 @@ verify they comply with those rules and flag any potential violations.
 - Format: `[YYYY-MM-DD] Claude suggested X / Author chose Y`
 
 ### Language & Style
+*These fields are placeholders on `main`. Fill them when you create a per-contest branch.*
+
 - Language: English
 - Tone: [TO BE FILLED — e.g., formal / persuasive / narrative]
 - Word limit: [TO BE FILLED from contest rules]
