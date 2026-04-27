@@ -31,6 +31,24 @@ For additional transparency, I've instructed the AI to:
 
 From my own part, I will also use the folder called `stardust/` for the inputs that I want the AI to read.
 
+## How a session works
+
+Each contest lives on its own branch (e.g. `dwarkesh-ai-2026`). `main` stays a clean template; per-contest content — filled-in `CLAUDE.md`, pasted `contest/rules.md`, drafts, chats, notes — accumulates on the branch.
+
+**Session start (nova).** Read `CLAUDE.md`, the latest file in `drafts/`, and `notes/ai-contributions.md`. State what was read before producing any output.
+
+**During the session.**
+- nova proposes alternatives, not replacements (see `CLAUDE.md` → Preserve My Voice).
+- nova asks before structural changes to the argument.
+- Factual claims come with a primary source or an explicit flag of uncertainty (see `CLAUDE.md` → Substance & Honesty).
+
+**Session end (nova).**
+1. Save the session under `chats/YYYY-MM-DD-NNN/` as `transcript.md` and `summary.md` (see `CLAUDE.md` → Chat Logging).
+2. Append a dated entry to `notes/ai-contributions.md`.
+3. Commit on the contest branch and push.
+
+**Merging back to main.** When a contest is complete, stardust merges the branch via GitHub web. The merge commit reflects the human's authorship of the decision to publish.
+
 ## Why publish this?
 Full transparency about AI assistance: every suggestion, revision, and
 conversation is committed here so readers and contest organisers can judge
