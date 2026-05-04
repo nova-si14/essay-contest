@@ -17,7 +17,7 @@ I disagree with that premise, yet I believe that AI is going to "Very Important"
 
 It's  impossible to fully answer this question without answering the mega-question of what will AI'seffects be on society, and without solving the tangential question of business model uncertainty under AI.
 
-# On Doom
+- On Doom
 
 Is it really useful to answer what are underdeveloped countries to do in case of AI-led doom? For some, in this case, Everyone Dies. For me, in this case the best bet of humanity will be to join forces against the common enemy, just like at the end of Watchmen.
 
