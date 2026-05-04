@@ -24,6 +24,17 @@ Let us answer accordingly.
 
 ---
 
+We can't just "assume" a world with No Doom. We must lay out exactly the characteristics of a world where there is No Doom yet AI is Very Important.
+
+- This is NOT a world where we go back to the pre-AI boom era. Stop AI doesn't win.
+- But maybe Pause AI does win. Or specifically, maybe AI pauses somewhere above its current capabilities level.
+- Or maybe AI simplys stalls somewhere above its current capability level.
+- Alternatively maybe we fix Alignment (or maybe an AI fixes it for us).
+
+How do these world look like?
+
+---
+
 On the one hand, AI should be negative for the growing economies:
 - 1.1 AI has the potential to increase inequality to levels not seen before.
 Just like some people might be anxious about becoming a "permanent underclass", so should entire countries be anxious.
