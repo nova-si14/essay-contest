@@ -5,7 +5,7 @@ All underdeveloped countries are underdeveloped for their own reasons. Yet, (mos
 
 I do not, therefore, expect the arrival of AI to change the basics of this dynamic, instead I expect it to deepen it: Going forward the best and only way for countries to reach "Catch-up Growth" will be by attracting FDI from the top international companies. There Is No Alternative (TINA).
 
-The real quesitions are:
+The real questions are:
 - How to do it?
 - Why have most countries not done it?
 - Will AI make it easier, or harder, for these countries to achieve catch up growth?
