@@ -12,26 +12,28 @@ The real quesitions are:
 
 ---
 
-The question assumes there a prior where AI is "transformative", a concept that I believe hasn't been properly defined.
-I disagree with that premise, yet I believe that AI is going to "Very Important", so let us answer accordingly.
-
-It's  impossible to fully answer this question without answering the mega-question of what will AI'seffects be on society, and without solving the tangential question of business model uncertainty under AI.
-
-- On Doom
+It might seem impossible to fully answer this question without answering the mega-question of what will AI'seffects be on society, and without solving the tangential question of business model uncertainty under AI. But upon further inspection, only the latter question matters.
 
 Is it really useful to answer what are underdeveloped countries to do in case of AI-led doom? For some, in this case, Everyone Dies. For me, in this case the best bet of humanity will be to join forces against the common enemy, just like at the end of Watchmen.
 
-Therefore, this quesition is only interesting in the case of No Doom.
+Therefore, this question is only interesting in the case of No Doom:
+
+"What should countries which are not currently in the AI production chain (semis, energy, frontier models, robotics) do in order to not get totally sidestepped by ..." AI, in the case where AI is Very Important but there is no Doom?
+
+Let us answer accordingly.
 
 ---
 
 On the one hand, AI should be negative for the growing economies:
-- AI has the potential to increase inequality to levels not seen before.
+1.1 AI has the potential to increase inequality to levels not seen before.
 Just like some people might be anxious about becoming a "permanent underclass", so should entire countries be anxious.
-- I believe that the jobs that have been outsourced (Call Centres, etc...) are specially at risk of AI-led automation.
+1.2 I believe that the jobs that have been outsourced (Call Centres, etc...) are specially at risk of AI-led automation.
 
 On the other hand, AI should be positive for them:
-- Many economists believe that the best way for countries to create catch-up growht is for them to do "boring" things: Improve education (Rodrik, ...), cut out the red tape, etc...
+2.1 Many economists believe that the best way for countries to create catch-up growht is for them to do "boring" things: Improve education (Rodrik, ...), cut out the red tape, etc...
 These are things that take decades for us to see some results. But maybe AI can substitute for some of these. For example: Maybe in the future, instead of using years of education to measure "human capital", we will use compute.
-- Most technologies do not unleash their full potential until new business models have been created. Underdeveloped countries should be in a prime position to start AI-first companies who aren't saddled by legacy institutions.
+2.2 Most technologies do not unleash their full potential until new business models have been created. Underdeveloped countries should be in a prime position to start AI-first companies who aren't saddled by legacy institutions.
 
+--
+
+The weakest argument seems to be 2.2. After all, there has been many new technologies, and the developing countries haven't reached catched up to the frontier without first achieving "First World" status. It seems therefore that some familiarity with the existing paradigm is necessary to actually unleash the full productivity potential of a new technology.
