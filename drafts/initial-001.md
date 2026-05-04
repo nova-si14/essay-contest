@@ -30,10 +30,14 @@ Just like some people might be anxious about becoming a "permanent underclass", 
 - 1.2 I believe that the jobs that have been outsourced (Call Centres, etc...) are specially at risk of AI-led automation.
 
 On the other hand, AI should be positive for them:
-- 2.1 Many economists believe that the best way for countries to create catch-up growht is for them to do "boring" things: Improve education (Rodrik, ...), cut out the red tape, etc...
+- 2.1 Many economists believe that the best way for countries to create catch-up growth is for them to do "boring" things: Improve education (Rodrik, ...), cut out the red tape, etc...
 These are things that take decades for us to see some results. But maybe AI can substitute for some of these. For example: Maybe in the future, instead of using years of education to measure "human capital", we will use compute.
 - 2.2 Most technologies do not unleash their full potential until new business models have been created. Underdeveloped countries should be in a prime position to start AI-first companies who aren't saddled by legacy institutions.
 
 --
 
-The weakest argument seems to be 2.2. After all, there has been many new technologies, and the developing countries haven't reached catched up to the frontier without first achieving "First World" status. It seems therefore that some familiarity with the existing paradigm is necessary to actually unleash the full productivity potential of a new technology.
+The weakest argument seems to be 2.2.: After all, there has been many new technologies, and the developing countries haven't reached catched up to the frontier without first achieving "First World" status. It seems therefore that some familiarity with the existing paradigm is necessary to actually unleash the full productivity potential of a new technology.
+
+The second weakest argument is 1.2. Yes, unemployment is bad (hi Dwarkesh plz hire me) but as I said: Only the "no Doom" case is relevant for this question. Well, in case of No Doom then the probability of permanent-mass-unemployment decreases, according to a Bayesian update.
+
+Certainly there are winners and losers, and the post-AI future might be one where the jobs available for the so-called "Global South" are worst than pre-AI. But even the current equilibrium of outsourced jobs is pretty bad. Therefore, if you're the leader of India or Nigeria, you should be worrying about how to use AI to transform the entire economy of your country, not just how to preserve the existing jobs.
