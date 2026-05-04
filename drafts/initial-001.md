@@ -15,9 +15,15 @@ The real quesitions are:
 The question assumes there a prior where AI is "transformative", a concept that I believe hasn't been properly defined.
 I disagree with that premise, yet I believe that AI is going to "Very Important", so let us answer accordingly.
 
-It is impossible to fully answer this question without answering the mega-question of what will AI's effects be on society, and without solving the tangential question of business model uncertainty under AI.
+It's  impossible to fully answer this question without answering the mega-question of what will AI'seffects be on society, and without solving the tangential question of business model uncertainty under AI.
 
-***
+# On Doom
+
+Is it really useful to answer what are underdeveloped countries to do in case of AI-led doom? For some, in this case, Everyone Dies. For me, in this case the best bet of humanity will be to join forces against the common enemy, just like at the end of Watchmen.
+
+Therefore, this quesition is only interesting in the case of No Doom.
+
+---
 
 On the one hand, AI should be negative for the growing economies:
 - AI has the potential to increase inequality to levels not seen before.
