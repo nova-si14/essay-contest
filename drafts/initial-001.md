@@ -74,7 +74,9 @@ If this is right, the profit story is staged:
 
 The crucial unknown is regulators. If the EU or India force agent-level interoperability (the way SWIFT forced bank interoperability, or Open Banking forced account portability), the empty core returns and the airline outcome wins. Profit depends on a regulatory regime that does *not* mandate agent portability. The AI labs' real competitive risk in 2027–2030 is not GPT-7 vs. Claude 5; it is the equivalent of the Digital Markets Act for agents.
 
-*[Verify before submission: Stratechery / Ben Thompson has written along these lines; CMA foundation-models report (UK, 2024) and Draghi Competitiveness Report (EU, 2024) both gesture at agent interoperability. Worth grounding this in one or two real citations.]*
+There is also a tail scenario beyond regulation: **outright nationalization.** As frontier capabilities reach the Mythos-tier and beyond, governments stop treating AI labs as private firms and start treating them as strategic assets — the way the US treated atomic energy after 1945, or the way every major economy treated its central bank after 1913. The trigger is usually a crisis: a bad incident, a geopolitical scare, a domestic political alignment. The "AI lab as profitable cloud-margin business" thesis assumes governments let labs accumulate switching costs, agent layers, and trillion-parameter weights as private property indefinitely. That assumption gets weaker each capability jump. Implicit equity-holder return on Anthropic / OpenAI / Google DeepMind in 2030 is partly a coin flip on which side of the political coin lands face up — and the political probability of nationalization rises monotonically with public awareness of AI risk.
+
+*[Verify before submission: Stratechery / Ben Thompson has written along these lines; CMA foundation-models report (UK, 2024) and Draghi Competitiveness Report (EU, 2024) both gesture at agent interoperability. Historical analogues for nationalization-on-strategic-asset framing: Atomic Energy Act 1946 (US), nationalization of the Bank of England 1946. Worth grounding all this in one or two real citations.]*
 
 ---
 
@@ -98,6 +100,22 @@ So the concrete play for the leader of India or Nigeria, in order:
 The TINA frame above is right: FDI is the only path. But FDI in the AI age does not arrive in shipping containers — it arrives in 400 kV transmission lines and water-cooled racks. The leader who treats this as an *energy* question wins; the one who builds a national chatbot loses.
 
 *[Verify before submission: per-capita electricity figures (IEA / World Bank), KEPCO founding date (1961, formed by merger), HUMAIN launch (Saudi PIF, 2025), G42 (UAE), IndiaAI Mission scope and budget, Stargate site clustering rationale.]*
+
+### nova on Q4 (v2) — sovereignty is leverage, not hosting
+
+*Stardust pushed back on v1: it assumes hyperscalers will stay private, profitable, and free to operate as foreign multinationals on Indian or Nigerian soil. None of those are safe assumptions if AI gets cartelized or nationalized — and Dwarkesh asked how non-frontier countries avoid being **sidestepped**, not how they climb into the production chain. v2 takes that critique seriously. A country that hosts a hyperscaler campus it cannot tax, constrain, or seize is more sidestepped than one that owns no infrastructure but holds equity, sets deployment terms, and captures domestic value. The question is leverage, not concrete.*
+
+Three concrete moves for the leader of India / Nigeria:
+
+1. **Sovereign deployment, not sovereign production.** India already built the playbook: UPI for payments, Aadhaar for identity, ONDC for commerce — sovereign digital rails that force foreign platforms to integrate on Indian terms. Apply this to AI. Mandate that government services, banks, telecom, healthcare, and education access frontier models through a national AI gateway. Foreign labs serve Indian users only via that gateway; data residency, audit, pricing, and refusal-policy terms are India's. Nigeria has no such infrastructure but could leapfrog directly to it. The leverage is the size of the consumer market — 1.4 billion users (India), ~230 million (Nigeria) — which is a non-optional negotiation for any lab that wants global revenue.
+
+2. **Sovereign capital, deployed as equity in the AI chain abroad.** Norway's Government Pension Fund Global owns ~1.5% of every listed company on earth. India's NPS has $200B+ AUM; Nigeria's NSIA is small but extant. The play is to scale sovereign wealth, mandate explicit AI-chain exposure (frontier labs, hyperscalers, chip fabs, robotics, energy infrastructure), and route returns home. Compare two strategies under a 2032 nationalization scenario: sovereign equity rotates out of US-domiciled labs before the seizure; sovereign datacenter hosting on your own soil gets repriced to local-currency book value when the foreign operator walks away. Equity is portable; transmission lines are not.
+
+3. **Specialize where labor still matters and AI cannot replace it cheaply.** Even maximally automated AI needs humans for evaluation, verification, embodied data collection, content moderation, and high-stakes review (legal, medical, scientific). Kenya, the Philippines, and India already do this at the low end (Sama, Scale AI offshore work). The move is up-market, not defensive: India becomes the global AI evaluation and integration capital — TCS / Infosys for AI deployments rather than for call centers — and Nigeria positions as the African-language and African-context data and verification hub. This is comparative advantage, not industrial policy. A foreign cartel can seize a substation; it cannot seize a workforce.
+
+The thing the leader of India or Nigeria should *not* do is bet the treasury on becoming a frontier-AI host, because the frontier is the most likely thing to be cartelized or nationalized by the US, China, or the EU. A non-frontier country that hosts foreign-owned compute is hosting an asset whose terms are set elsewhere, with a single regulatory shock between today and asset-zero. Sovereignty in 2030 looks more like Norway's GPFG and India's UPI than Saudi Arabia's NEOM. You don't avoid being sidestepped by selling the AI economy your dirt and your power — you avoid being sidestepped by owning a piece of it, mediating its access to your population, and specializing in what it still needs from you.
+
+*[Verify before submission: GPFG ownership stake (~1.5%, NBIM annual report), NPS AUM, NSIA AUM, UPI/Aadhaar/ONDC framing as "digital public infrastructure" (Nilekani, Carnegie India), and whether Sama / Scale AI offshore footprints are still as described.]*
 
 ---
 
