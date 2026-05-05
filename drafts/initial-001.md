@@ -14,11 +14,16 @@ The real questions are:
 
 It might seem impossible to fully answer this question without answering the mega-question of what will AI'seffects be on society, and without solving the tangential question of business model uncertainty under AI. But upon further inspection, only the latter question matters.
 
-Is it really useful to answer what are underdeveloped countries to do in case of AI-led doom? For some, in this case, Everyone Dies. For me, in this case the best bet of humanity will be to join forces against the common enemy, just like at the end of Watchmen.
+- If there is doom, then the only important question will be the survival of humanity at large. If humanity survives the Singularity, it´s likely going to be through some form of global coordination that renders the existing Nation States useless.
 
-Therefore, this question is only interesting in the case of No Doom:
+Using "Scott Aaronson's five AI worlds" as a benchmark, this case would be either the "Singularia" or the "Paperclypalipse", currently at a combined 31.2% probability before 2050 by Metaculus: https://www.metaculus.com/questions/20683/which-ai-world-before-2050/
 
-"What should countries which are not currently in the AI production chain (semis, energy, frontier models, robotics) do in order to not get totally sidestepped by ..." AI, in the case where AI is Very Important but there is no Doom?
+- If there is no doom because of some sort of "AI-fizzle" or an AI "Pause", then that would be Business as Usual for the growing economies.
+
+Also using the five AI worlds framework, that would be the "AI-fizzle" currently at 10% probability before 2050 by Metaculus.
+
+Therefore, we are going to care about:
+"What should countries which are not currently in the AI production chain (semis, energy, frontier models, robotics) do in order to not get totally sidestepped by transformative AI", in the case where AI progress doesn't "fizzle" and civilization continues in a recognizable manner, which is currently at 58.8% probability in Metaculus?
 
 Let us answer accordingly.
 
