@@ -1,5 +1,5 @@
 # Development in the Age of AI
-"All happy families are unhappy in the same way. Each unhappy family is unhappy in their own way" - Anna Karennina (I think)
+"All happy families are alike; each unhappy family is unhappy in its own way." — Tolstoy, *Anna Karenina*
 
 All underdeveloped countries are underdeveloped for their own reasons. Yet, (most) of the countries that have gone "from the Third World to the First" did it in roughly the same way: Through Foreign Direct Investment, whether it be through export-led growth (China, South Korea) or by becoming a financial services hub (Hong Kong, Singapore).
 
