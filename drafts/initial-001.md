@@ -14,9 +14,10 @@ The real questions are:
 It might seem impossible to fully answer this question without answering the meta-question of what will AI's effects be on society. But upon further inspection, this meta-question doesn't really matter.
 
 - If there is doom, then the only important question will be the survival of humanity at large. If humanity survives the Singularity, it´s likely going to be through some form of global coordination that renders the existing Nation States useless.
+- If there is doom because alignment has been solved and we enter a sort of "Singularia", then that isn't very interesting either! See Scott Alexander (... permanent underclass ...)
 - If there is no doom because of some sort of "AI-fizzle" or an AI "Pause", then that would be Business as Usual for the growing economies.
 
-Using "Scott Aaronson's five AI worlds" as a benchmark, the first case case would be either the "Singularia" or the "Paperclypalipse", currently at a combined 31.2% probability before 2050 by Metaculus. The second case would be the would be the "AI-fizzle" currently at 10% probability.
+Using "Scott Aaronson's five AI worlds" as a benchmark, the first case case would be either the "Paperclypalipse" or the "Singularia", currently at a combined 31.2% probability before 2050 by Metaculus. The second case would be the would be the "AI-fizzle" currently at 10% probability.
 https://www.metaculus.com/questions/20683/which-ai-world-before-2050/
 
 Therefore, we are going to care about those worlds which are at 58.8% probability by 2050 at metaculus:
@@ -27,26 +28,30 @@ Let us answer accordingly.
 
 ---
 
-We can't just "assume" a world with No Doom. We must lay out exactly the characteristics of a world where there is No Doom yet AI is Very Important.
+We can't just "assume" a world of transformative AI with No Doom. We must lay out exactly the characteristics of a world where there is No Doom yet AI is Very Important.
 
-- This is NOT a world where we go back to the pre-AI boom era. Stop AI doesn't win.
-- But maybe Pause AI does win. Or specifically, maybe AI pauses somewhere above its current capabilities level.
-- Or maybe AI simplys stalls somewhere above its current capability level.
-- Alternatively maybe we (or an AI) fixes Alignment.
+- This is a world where AI capabilities, even if they are "transformational" stop somewhere below the "intelligence explosion" as described by AI 2027.
 
-How do these world look like?
-
-There is currently one prediction market that I would follow for this question: https://manifold.markets/EliezerYudkowsky/if-artificial-general-intelligence
-
-This is how I would group the answers:
-- Alignment works either under the current paradigm (J., M., C.) or under a new one (O., K.) currently at a combined 52%
-- Cooperation with AI (H., G., D.) at 18%
-- We slow down or pause AI (A., B.) currently at 7.2%.
-- Others at around 25%
-
-So the most likely no doom outcomes are those where alignment is effectively solved.
+What does this world look like?
+It's a world where AI is one of the most important technologies of our economy. Therefore, under this world, we must also answer Dwarkesh Q2: "So when does the profit start?", "So how do the labs actually start making money?"
 
 ---
+
+(Nobody really Knows) How to profit from AI.
+
+(See: Bubbles and Crashes (2019). Business model uncertainty is an intrinsic part of any new technology.)
+
+Maybe AI knows!
+
+---
+
+(Nobody really Knows) How to grow a country.
+
+Maybe AI knows!
+
+---
+
+Some shots at the dark:
 
 On the one hand, AI should be negative for the growing economies:
 - 1.1 AI has the potential to increase inequality to levels not seen before.
