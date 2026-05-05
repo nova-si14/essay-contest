@@ -7,23 +7,21 @@ I do not, therefore, expect the arrival of AI to change the basics of this dynam
 
 The real questions are:
 - How to do it?
-- Why have most countries not done it?
 - Will AI make it easier, or harder, for these countries to achieve catch up growth?
 
 ---
 
-It might seem impossible to fully answer this question without answering the mega-question of what will AI'seffects be on society, and without solving the tangential question of business model uncertainty under AI. But upon further inspection, only the latter question matters.
+It might seem impossible to fully answer this question without answering the meta-question of what will AI's effects be on society. But upon further inspection, this meta-question doesn't really matter.
 
 - If there is doom, then the only important question will be the survival of humanity at large. If humanity survives the Singularity, it´s likely going to be through some form of global coordination that renders the existing Nation States useless.
-
-Using "Scott Aaronson's five AI worlds" as a benchmark, this case would be either the "Singularia" or the "Paperclypalipse", currently at a combined 31.2% probability before 2050 by Metaculus: https://www.metaculus.com/questions/20683/which-ai-world-before-2050/
-
 - If there is no doom because of some sort of "AI-fizzle" or an AI "Pause", then that would be Business as Usual for the growing economies.
 
-Also using the five AI worlds framework, that would be the "AI-fizzle" currently at 10% probability before 2050 by Metaculus.
+Using "Scott Aaronson's five AI worlds" as a benchmark, the first case case would be either the "Singularia" or the "Paperclypalipse", currently at a combined 31.2% probability before 2050 by Metaculus. The second case would be the would be the "AI-fizzle" currently at 10% probability.
+https://www.metaculus.com/questions/20683/which-ai-world-before-2050/
 
-Therefore, we are going to care about:
-"What should countries which are not currently in the AI production chain (semis, energy, frontier models, robotics) do in order to not get totally sidestepped by transformative AI", in the case where AI progress doesn't "fizzle" and civilization continues in a recognizable manner, which is currently at 58.8% probability in Metaculus?
+Therefore, we are going to care about those worlds which are at 58.8% probability by 2050 at metaculus:
+
+"What should countries which are not currently in the AI production chain (semis, energy, frontier models, robotics) do in order to not get totally sidestepped by transformative AI", in the case where AI progress doesn't "fizzle" and civilization continues in a recognizable manner?
 
 Let us answer accordingly.
 
