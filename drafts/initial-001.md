@@ -29,9 +29,19 @@ We can't just "assume" a world with No Doom. We must lay out exactly the charact
 - This is NOT a world where we go back to the pre-AI boom era. Stop AI doesn't win.
 - But maybe Pause AI does win. Or specifically, maybe AI pauses somewhere above its current capabilities level.
 - Or maybe AI simplys stalls somewhere above its current capability level.
-- Alternatively maybe we fix Alignment (or maybe an AI fixes it for us).
+- Alternatively maybe we (or an AI) fixes Alignment.
 
 How do these world look like?
+
+There is currently one prediction market that I would follow for this question: https://manifold.markets/EliezerYudkowsky/if-artificial-general-intelligence
+
+This is how I would group the answers:
+- Alignment works either under the current paradigm (J., M., C.) or under a new one (O., K.) currently at a combined 52%
+- Cooperation with AI (H., G., D.) at 18%
+- We slow down or pause AI (A., B.) currently at 7.2%.
+- Others at around 25%
+
+So the most likely no doom outcomes are those where alignment is effectively solved.
 
 ---
 
