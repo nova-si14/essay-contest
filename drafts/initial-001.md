@@ -41,7 +41,7 @@ It's a world where AI is one of the most important technologies of our economy. 
 
 (See: Bubbles and Crashes (2019). Business model uncertainty is an intrinsic part of any new technology.)
 
-It has been proposed by some such as Noah Smith that maybe AI will just not be profitable, like airlines. David Oks explains that airlines are unique amongst the major industries in their unprofitability, similar to railroads in the XVII Century. The reasons is that the airline industry corresponds to what the game theorists call an "empty core", in which there will always be incentives for a new competitor to enter and undercut the existing companies, leading to bankruptcy. Therefore, airlines can be either competitive or profitable, but not both.
+It has been proposed by some such as Noah Smith that maybe AI will just not be profitable, like airlines. David Oks explains that airlines are unique amongst the major industries in their unprofitability, similar to railroads in the XIX Century. The reason is that the airline industry corresponds to what the game theorists call an "empty core", in which there will always be incentives for a new competitor to enter and undercut the existing companies, leading to bankruptcy. Therefore, airlines can be either competitive or profitable, but not both.
 
 The factors that lead to the "empty core" of the airline industry are:
 - On the supply side: High fixed costs and low marginal costs. This means that the market can only support a relatively small number of companies.
@@ -50,16 +50,16 @@ Source: https://davidoks.blog/p/why-airlines-are-always-going-bankrupt
 
 On the supply side, it's obvious that both factors are fulfilled. Yet, this shouldn't perturb the investors: Several "natural oligopolies" share these characteristics and, as David Oks says, the airline industry is *unique* in its unprofitability (but what about railways?).
 
-What should really scare us is the demand side. Specially volatility.
+What should really scare us is the demand side. Especially volatility.
 
 Will demand for AI be volatile? Nobody knows!
 Will the AI labs differentiate their products? Do they even want to? Nobody knows!
 
 It seems to me that AI can either be differentiated but unstable, or stable but undifferentiated:
 On the one hand, if Intelligence becomes "commoditized" such that in the future we can go to the AI labs and "open the tap" of intelligence just like we open the tap of water, then there is little room for differentiation. This looks like the case for business use.
-On the other hand, we as humans are prone to antropomorphize things, specially AI *even if the labs don't want it*. If AI becomes a consumer good (or an important input in consumer goods such as a "digital celebrity"), then the labs might easily differentiate their offerings.
+On the other hand, we as humans are prone to anthropomorphize things, especially AI *even if the labs don't want it*. If AI becomes a consumer good (or an important input in consumer goods such as a "digital celebrity"), then the labs might easily differentiate their offerings.
 
-Contrary to all of the above, maybe the AI labs will indeed suceed at differentiating their products: Maybe the future of AI is in fine-tuning the models to each specific industry or to an specific company. In which case the AI labs will basically replace all of the consulting companies.
+Contrary to all of the above, maybe the AI labs will indeed succeed at differentiating their products: Maybe the future of AI is in fine-tuning the models to each specific industry or to a specific company. In which case the AI labs will basically replace all of the consulting companies.
 
 Who knows! Maybe AI knows!
 
